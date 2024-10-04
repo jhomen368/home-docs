@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a69801bd196cec9c",
+        "id": "02aa520f0904c7a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e8957a2f1eb46bac",
+            "id": "060b9e80e87be61d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -134,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,9 +150,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78dedcd2c3008f82",
+  "active": "060b9e80e87be61d",
   "lastOpenFiles": [
     "apps/ansible/kubernetes rke2 deployment.md",
+    "2024-10-04.md",
     "misc/Certmaster CE.md",
     "linux/flux.md",
     "Untitled.md",
