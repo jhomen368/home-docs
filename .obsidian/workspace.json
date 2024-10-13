@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/ansible/kubernetes rke2 deployment.md",
+                "file": "kubernetes/gpu passthrough.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nvidi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/ansible/kubernetes rke2 deployment.md",
+                "file": "kubernetes/gpu passthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/ansible/kubernetes rke2 deployment.md",
+                "file": "kubernetes/gpu passthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/ansible/kubernetes rke2 deployment.md"
+                "file": "kubernetes/gpu passthrough.md"
               }
             }
           },
@@ -155,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78dedcd2c3008f82",
+  "active": "fe443544d4e95a82",
   "lastOpenFiles": [
     "apps/ansible/kubernetes rke2 deployment.md",
     "2024-10-04.md",
