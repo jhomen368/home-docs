@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "02aa520f0904c7a4",
+        "id": "4b50b97e82262478",
         "type": "tabs",
         "children": [
           {
-            "id": "060b9e80e87be61d",
+            "id": "fe443544d4e95a82",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "apps/ansible/kubernetes rke2 deployment.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "apps/ansible/kubernetes rke2 deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "apps/ansible/kubernetes rke2 deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "apps/ansible/kubernetes rke2 deployment.md"
+              }
             }
           },
           {
@@ -137,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "060b9e80e87be61d",
+  "active": "78dedcd2c3008f82",
   "lastOpenFiles": [
     "apps/ansible/kubernetes rke2 deployment.md",
     "2024-10-04.md",
