@@ -25,6 +25,13 @@ kubectl delete node <node-name>
 
 Commands:
 
+Show loadbalancer svc
+
+```
+kubectl get svc --all-namespaces
+```
+
+
 Scale Down Pods to 0
 
 ```
