@@ -26,5 +26,8 @@ kubectl get certificate
 ```
 
 
+upgrade helm
 
-kubectl apply -f default-headers.yaml
+```
+helm upgrade --namespace=traefik traefik traefik/traefik --values=values.yaml
+```
