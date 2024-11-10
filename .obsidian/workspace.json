@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/traefik.md",
+                "file": "kubernetes/gpu passthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "traefik"
+              "title": "gpu passthrough"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "traefik",
+                "query": "nvidia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,13 +205,13 @@
   },
   "active": "e680538d3610c9aa",
   "lastOpenFiles": [
-    "kubernetes/cert-manager.md",
+    "kubernetes/kubectl.md",
     "kubernetes/traefik.md",
+    "kubernetes/cert-manager.md",
     "kubernetes/gpu passthrough.md",
     "kubernetes/coder.md",
     "kubernetes/manifests.md",
     "kubernetes/longhorn.md",
-    "kubernetes/kubectl.md",
     "loadbalancer.md",
     "apps/ansible/kubernetes rke2 deployment.md",
     "2024-10-04.md",
