@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/win11-setup.md",
+                "file": "windows/winget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "win11-setup"
+              "title": "winget"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "a7c072c0f8fe2d23",
   "lastOpenFiles": [
-    "windows/winget.md",
     "windows/win11-setup.md",
+    "windows/winget.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip.zip",
     "kubernetes/cert-manager.md",
