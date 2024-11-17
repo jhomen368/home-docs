@@ -1,3 +1,6 @@
+Install personalized basic package list from git
+
+
 
 Search for App
 
@@ -37,5 +40,3 @@ Install winget apps from JSON in current working directory
 winget import -i exported_apps.json
 ```
 
-
-Install
