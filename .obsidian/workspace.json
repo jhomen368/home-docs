@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/winget.md",
+                "file": "kubernetes/gpu passthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winget"
+              "title": "gpu passthrough"
             }
           }
         ],
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/winget.md"
+                "file": "kubernetes/gpu passthrough.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of winget"
+              "title": "Outline of gpu passthrough"
             }
           },
           {
@@ -218,10 +218,10 @@
   },
   "active": "a7c072c0f8fe2d23",
   "lastOpenFiles": [
+    "windows/winget.md",
     "windows/files/basic_apps.json",
     "windows/files",
     "Untitled",
-    "windows/winget.md",
     "basic_apps.json",
     "apps/ansible/kubernetes rke2 deployment.md",
     "windows",
@@ -253,7 +253,6 @@
     "apps/containers/nzbget.md",
     "images/Pasted image 20240307194657.png",
     "images",
-    "kubernetes/nfs-subdir-external-provisioner",
-    "unifi"
+    "kubernetes/nfs-subdir-external-provisioner"
   ]
 }
