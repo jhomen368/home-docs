@@ -220,6 +220,8 @@
   "lastOpenFiles": [
     "windows/winget.md",
     "windows/win11-setup.md",
+    "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
+    "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip.zip",
     "kubernetes/cert-manager.md",
     "kubernetes/coder.md",
     "kubernetes/gpu passthrough.md",
@@ -248,12 +250,9 @@
     "plex",
     "kubernetes/node setup.md",
     "apps/terraform/resources.md",
-    "misc",
     "apps/containers/pterodactyl.md",
     "apps/containers/wg-easy.md",
     "apps/containers/pihole.md",
-    "apps/containers/nzbget.md",
-    "images/Pasted image 20240307194657.png",
-    "images"
+    "images/Pasted image 20240307194657.png"
   ]
 }
