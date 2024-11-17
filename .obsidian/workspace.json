@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/winget.md",
-                "mode": "source",
-                "source": false
+                "file": "kubernetes/cert-manager.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "winget"
+              "title": "cert-manager"
             }
           }
         ],
@@ -218,22 +218,25 @@
   },
   "active": "a7c072c0f8fe2d23",
   "lastOpenFiles": [
+    "kubernetes/coder.md",
+    "kubernetes/gpu passthrough.md",
+    "kubernetes/longhorn.md",
+    "kubernetes/manifests.md",
+    "kubernetes/nfs-subdir-external-provisioner.md",
+    "unifi/dns request redirect.md",
+    "plex/Troubleshooting.md",
+    "windows/winget.md",
     "windows/files/custom_apps.json",
     "kubernetes/kubectl.md",
-    "kubernetes/gpu passthrough.md",
-    "windows/winget.md",
     "windows/files/basic_apps.json",
     "windows/files",
     "Untitled",
     "basic_apps.json",
     "apps/ansible/kubernetes rke2 deployment.md",
     "windows",
-    "kubernetes/longhorn.md",
     "kubernetes/rancher.md",
     "kubernetes/traefik.md",
     "kubernetes/cert-manager.md",
-    "kubernetes/coder.md",
-    "kubernetes/manifests.md",
     "loadbalancer.md",
     "2024-10-04.md",
     "misc/Certmaster CE.md",
@@ -241,19 +244,15 @@
     "Untitled.md",
     "README.md",
     "Homen-DD214.pdf",
-    "plex/Troubleshooting.md",
     "plex",
     "kubernetes/node setup.md",
-    "kubernetes/nfs-subdir-external-provisioner.md",
     "apps/terraform/resources.md",
     "misc",
-    "unifi/dns request redirect.md",
     "apps/containers/pterodactyl.md",
     "apps/containers/wg-easy.md",
     "apps/containers/pihole.md",
     "apps/containers/nzbget.md",
     "images/Pasted image 20240307194657.png",
-    "images",
-    "kubernetes/nfs-subdir-external-provisioner"
+    "images"
   ]
 }
