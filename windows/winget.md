@@ -1,6 +1,10 @@
 Install personalized basic package list from git
 
+![[basic_apps.json]]
 
+``` powershell
+winget import -i .\basic_apps.json
+```
 
 Search for App
 
