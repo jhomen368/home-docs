@@ -218,6 +218,7 @@
   },
   "active": "a7c072c0f8fe2d23",
   "lastOpenFiles": [
+    "windows/files/custom_apps.json",
     "kubernetes/kubectl.md",
     "kubernetes/gpu passthrough.md",
     "windows/winget.md",
