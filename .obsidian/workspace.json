@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/traefik.md"
+                "file": "windows/winget.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of traefik"
+              "title": "Outline of winget"
             }
           },
           {
@@ -218,6 +218,9 @@
   },
   "active": "a7c072c0f8fe2d23",
   "lastOpenFiles": [
+    "windows/files/basic_apps.json",
+    "windows/files",
+    "Untitled",
     "windows/winget.md",
     "basic_apps.json",
     "apps/ansible/kubernetes rke2 deployment.md",
@@ -251,8 +254,6 @@
     "images/Pasted image 20240307194657.png",
     "images",
     "kubernetes/nfs-subdir-external-provisioner",
-    "unifi",
-    "apps/containers",
-    "apps"
+    "unifi"
   ]
 }
