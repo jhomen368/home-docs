@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/cert-manager.md",
+                "file": "windows/winget.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cert-manager"
+              "title": "winget"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "a7c072c0f8fe2d23",
   "lastOpenFiles": [
+    "kubernetes/cert-manager.md",
     "kubernetes/coder.md",
     "kubernetes/gpu passthrough.md",
     "kubernetes/longhorn.md",
@@ -236,7 +237,6 @@
     "windows",
     "kubernetes/rancher.md",
     "kubernetes/traefik.md",
-    "kubernetes/cert-manager.md",
     "loadbalancer.md",
     "2024-10-04.md",
     "misc/Certmaster CE.md",
