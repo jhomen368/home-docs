@@ -8,3 +8,10 @@ Live CD User Creation
 5. **Configure user settings**: You can customize user settings, such as adding the user to groups or setting the default shell, using commands like `sudo usermod -aG <group> newuser` or `sudo chsh -s /bin/bash newuser`.
 6. **Exit the chroot environment**: When you’re finished making changes, exit the chroot environment by running `exit` or pressing Ctrl+D.
 7. **Unmount the local system**: Run `sudo umount /mnt` to unmount the local system’s root partition.
+
+``` bash
+vi /etc/ssh/sshd_config
+```
+
+- uncomment PasswordAuthentication yes
+- KbdInteractiveAuthentication yes

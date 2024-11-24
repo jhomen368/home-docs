@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/ubuntu recovery.md",
+                "file": "linux/ubuntu cloud image recovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ubuntu recovery"
+              "title": "ubuntu cloud image recovery"
             }
           }
         ]
@@ -182,7 +182,7 @@
     "windows/Untitled 20241124 125054.mdenc",
     "windows/winget.md",
     "kubernetes/kubectl.md",
-    "linux/ubuntu recovery.md",
+    "linux/ubuntu cloud image recovery.md",
     "kubernetes/longhorn.md",
     "kubernetes/traefik.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
