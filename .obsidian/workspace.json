@@ -11,14 +11,13 @@
             "id": "ff3e23772ce3fe8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "windows/win11-setup.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/community-plugins.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "win11-setup"
+              "icon": "git-pull-request",
+              "title": "Diff View (community-plugins.json)"
             }
           }
         ]
@@ -170,13 +169,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false
     }
   },
   "active": "ff3e23772ce3fe8d",
   "lastOpenFiles": [
-    "windows/winget.md",
     "windows/win11-setup.md",
+    "windows/Untitled 20241124 125054.mdenc",
+    "windows/winget.md",
     "kubernetes/kubectl.md",
     "linux/ubuntu recovery.md",
     "kubernetes/longhorn.md",
@@ -205,12 +208,10 @@
     "Untitled.md",
     "README.md",
     "Homen-DD214.pdf",
-    "plex",
     "kubernetes/node setup.md",
     "apps/terraform/resources.md",
     "apps/containers/pterodactyl.md",
     "apps/containers/wg-easy.md",
-    "apps/containers/pihole.md",
     "images/Pasted image 20240307194657.png"
   ]
 }
