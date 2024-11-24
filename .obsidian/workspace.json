@@ -11,13 +11,14 @@
             "id": "ff3e23772ce3fe8d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
+                "file": "linux/ubuntu recovery.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (community-plugins.json)"
+              "icon": "lucide-file",
+              "title": "ubuntu recovery"
             }
           }
         ]
