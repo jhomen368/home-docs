@@ -21,3 +21,22 @@ Expand-Archive Sophia_Script_for_Windows_11_v6.7.2_customized.zip
 
 Start-Process PowerShell -Verb runAs -ArgumentList "./Sophia_Script_for_Windows_11_v6.7.2_customized/Sophia.ps1"
 ```
+
+## Install NVIDIA App
+Temp until winget PR closed (https://github.com/microsoft/winget-pkgs/issues/140696)
+
+https://gist.github.com/emilwojcik93/788eca2e456488c360fabc15d274031d?permalink_comment_id=5294025#gistcomment-5294025
+
+Use `Invoke-RestMethod` to download and execute the script. Here is how you can do it:
+
+```powershell
+# Using Invoke-RestMethod
+irm https://gist.githubusercontent.com/emilwojcik93/788eca2e456488c360fabc15d274031d/raw/Install-NvidiaApp.ps1 | iex
+```
+
+If it doesn't works, then try to [Set-ExecutionPolicy](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4) via PowerShell (Admin)
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force; irm 
+https://gist.githubusercontent.com/emilwojcik93/788eca2e456488c360fabc15d274031d/raw/Install-NvidiaApp.ps1 | iex
+```
