@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/backup.md",
+                "file": "windows/winget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backup"
+              "title": "winget"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "ff3e23772ce3fe8d",
   "lastOpenFiles": [
-    "kubernetes/kubectl.md",
     "windows/backup.md",
+    "kubernetes/kubectl.md",
     "kubernetes/longhorn.md",
     "kubernetes/manifests.md",
     "kubernetes/rancher.md",
