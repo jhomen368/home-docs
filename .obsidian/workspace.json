@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/kubectl.md",
+                "file": "windows/backup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kubectl"
+              "title": "backup"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,8 +176,10 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "7444cf278c5bf7c5",
+  "active": "ff3e23772ce3fe8d",
   "lastOpenFiles": [
+    "kubernetes/kubectl.md",
+    "windows/backup.md",
     "kubernetes/longhorn.md",
     "kubernetes/manifests.md",
     "kubernetes/rancher.md",
@@ -188,7 +189,6 @@
     "windows/win11-setup.md",
     "windows/Untitled 20241124 125054.mdenc",
     "windows/winget.md",
-    "kubernetes/kubectl.md",
     "kubernetes/traefik.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip.zip",
