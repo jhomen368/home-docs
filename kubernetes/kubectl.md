@@ -2,8 +2,6 @@
 kubectl get nodes
 ```
 
-1) First drain the node
-
 ```yaml
 kubectl drain <node-name>
 ```
@@ -14,13 +12,13 @@ You might have to ignore daemonsets and local-data in the machine
 kubectl drain <node-name> --ignore-daemonsets --delete-local-data
 ```
 
-2) Finally delete the node
+```yaml
+kubectl uncordon <node-name>
+```
 
 ```yaml
 kubectl delete node <node-name>
 ```
-
-
 
 
 Commands:

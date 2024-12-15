@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/node setup.md",
+                "file": "kubernetes/kubectl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "node setup"
+              "title": "kubectl"
             }
           }
         ]
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,21 +177,23 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "ff3e23772ce3fe8d",
+  "active": "7444cf278c5bf7c5",
   "lastOpenFiles": [
+    "kubernetes/longhorn.md",
+    "kubernetes/manifests.md",
+    "kubernetes/rancher.md",
+    "kubernetes/cert-manager.md",
+    "kubernetes/node setup.md",
     "linux/ubuntu cloud image recovery.md",
     "windows/win11-setup.md",
     "windows/Untitled 20241124 125054.mdenc",
     "windows/winget.md",
     "kubernetes/kubectl.md",
-    "kubernetes/longhorn.md",
     "kubernetes/traefik.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip.zip",
-    "kubernetes/cert-manager.md",
     "kubernetes/coder.md",
     "kubernetes/gpu passthrough.md",
-    "kubernetes/manifests.md",
     "kubernetes/nfs-subdir-external-provisioner.md",
     "unifi/dns request redirect.md",
     "plex/Troubleshooting.md",
@@ -201,7 +204,6 @@
     "basic_apps.json",
     "apps/ansible/kubernetes rke2 deployment.md",
     "windows",
-    "kubernetes/rancher.md",
     "loadbalancer.md",
     "2024-10-04.md",
     "misc/Certmaster CE.md",
@@ -209,7 +211,6 @@
     "Untitled.md",
     "README.md",
     "Homen-DD214.pdf",
-    "kubernetes/node setup.md",
     "apps/terraform/resources.md",
     "apps/containers/pterodactyl.md",
     "apps/containers/wg-easy.md",
