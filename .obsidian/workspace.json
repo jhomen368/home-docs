@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4332ba939c1f90a3",
+        "id": "2a77bc9d745714c2",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3e23772ce3fe8d",
+            "id": "180246920422d316",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "windows/winget.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "winget"
+              "title": "New tab"
             }
           }
         ]
@@ -176,13 +172,13 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "ff3e23772ce3fe8d",
+  "active": "180246920422d316",
   "lastOpenFiles": [
+    "windows/winget.md",
     "windows/win11-setup.md",
     "windows/backup.md",
     "unifi/dns request redirect.md",
     "linux/ansible install.md",
-    "windows/winget.md",
     "kubernetes/kubectl.md",
     "kubernetes/longhorn.md",
     "kubernetes/manifests.md",

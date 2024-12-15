@@ -73,6 +73,9 @@
 					"PackageIdentifier" : "Discord.Discord"
 				},
 				{
+					"PackageIdentifier" : "Rufus.Rufus"
+				},
+				{
 					"PackageIdentifier" : "Obsidian.Obsidian"
 				}
 			],
