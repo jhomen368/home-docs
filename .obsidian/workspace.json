@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/win11-setup.md",
+                "file": "windows/backup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "win11-setup"
+              "title": "backup"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "22c71f56a54fea43",
   "lastOpenFiles": [
-    "windows/winget.md",
     "windows/win11-setup.md",
+    "windows/winget.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/backup.md",
     "unifi/dns request redirect.md",
