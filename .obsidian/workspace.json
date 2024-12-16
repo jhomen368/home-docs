@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a77bc9d745714c2",
+        "id": "5dfb1a696a6205bb",
         "type": "tabs",
         "children": [
           {
-            "id": "180246920422d316",
+            "id": "22c71f56a54fea43",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "windows/win11-setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "win11-setup"
             }
           }
         ]
@@ -175,10 +176,11 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "180246920422d316",
+  "active": "22c71f56a54fea43",
   "lastOpenFiles": [
     "windows/winget.md",
     "windows/win11-setup.md",
+    "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/backup.md",
     "unifi/dns request redirect.md",
     "linux/ansible install.md",
@@ -210,9 +212,7 @@
     "linux/flux.md",
     "Untitled.md",
     "README.md",
-    "Homen-DD214.pdf",
     "apps/terraform/resources.md",
-    "apps/containers/pterodactyl.md",
     "images/Pasted image 20240307194657.png"
   ]
 }

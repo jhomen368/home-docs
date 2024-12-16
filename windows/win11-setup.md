@@ -15,11 +15,12 @@ https://github.com/farag2/Sophia-Script-for-Windows/releases/download/6.7.2/Soph
 ![Sophia Script for Windows 11 Customized](files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip)
 
 ``` powershell
-cmd /C curl -O -L -H "Accept: Accept: application/vnd.github.v3.raw" -H "Authorization: Bearer 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" https://api.github.com/repos/jhomen368/home-docs/contents/windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip
+Set-ExecutionPolicy -ExecutionPolicy Bypass
+cmd /C curl -O -L -H "Accept: Accept: application/vnd.github.v3.raw" -H "Authorization: Bearer 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" https://api.github.com/repos/jhomen368/home-docs/contents/windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip
 
-Expand-Archive Sophia_Script_for_Windows_11_v6.7.2_customized.zip
+Expand-Archive Sophia_Script_for_Windows_11_v6.7.3_customized.zip
 
-Start-Process PowerShell -Verb runAs -ArgumentList "./Sophia_Script_for_Windows_11_v6.7.2_customized/Sophia.ps1"
+Start-Process PowerShell -Verb runAs -ArgumentList "./Sophia_Script_for_Windows_11_v6.7.3_customized/Sophia.ps1"
 ```
 
 ## Install NVIDIA App
@@ -28,13 +29,6 @@ Temp until winget PR closed (https://github.com/microsoft/winget-pkgs/issues/140
 https://gist.github.com/emilwojcik93/788eca2e456488c360fabc15d274031d?permalink_comment_id=5294025#gistcomment-5294025
 
 Use `Invoke-RestMethod` to download and execute the script. Here is how you can do it:
-
-```powershell
-# Using Invoke-RestMethod
-irm https://gist.githubusercontent.com/emilwojcik93/788eca2e456488c360fabc15d274031d/raw/Install-NvidiaApp.ps1 | iex
-```
-
-If it doesn't works, then try to [Set-ExecutionPolicy](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4) via PowerShell (Admin)
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force; irm 
