@@ -25,4 +25,4 @@ https://help.wallpaperengine.io/en/steam/backup.html
 
 ## Peace
 
-https://sourceforge.net/projects/equalizerapo/
+https://sourceforge.net/projects/peace-equalizer-apo-extension/files/latest/download
