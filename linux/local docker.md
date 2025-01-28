@@ -5,6 +5,23 @@
 | ---------------- | ---------- | ------ | --------- |
 | Ubuntu 24.04 LTS | ubuntu2404 | x86_64 | amd64     |
 
+```bash
+sudo apt install linux-headers-$(uname -r)
+```
+
+``` bash
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuda-keyring_1.1-1_all.deb
+sudo dpkg -i cuda-keyring_1.1-1_all.deb
+sudo apt update
+```
+
+```
+sudo apt install nvidia-open
+```
+
+```
+sudo apt install cuda-drivers
+```
 ## Use Graphics Card for Local Docker using APT
 
 https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation
@@ -56,6 +73,8 @@ Add User to docker group
 ``` bash
 sudo usermod -aG docker $USER
 ```
+
+## Misc Commands
 
 Run a container to work in
 
