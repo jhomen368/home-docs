@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/gpu passthrough.md",
+                "file": "linux/local docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gpu passthrough"
+              "title": "local docker"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvidia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,6 +178,10 @@
   },
   "active": "22c71f56a54fea43",
   "lastOpenFiles": [
+    "apps/containers/pterodactyl.md",
+    "apps/containers/pihole.md",
+    "apps/containers/nzbget.md",
+    "kubernetes/gpu passthrough.md",
     "windows/backup.md",
     "windows/win11-setup.md",
     "windows/winget.md",
@@ -197,7 +200,6 @@
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip.zip",
     "kubernetes/coder.md",
-    "kubernetes/gpu passthrough.md",
     "kubernetes/nfs-subdir-external-provisioner.md",
     "plex/Troubleshooting.md",
     "windows/files/custom_apps.json",
@@ -212,8 +214,6 @@
     "misc/Certmaster CE.md",
     "linux/flux.md",
     "Untitled.md",
-    "README.md",
-    "apps/terraform/resources.md",
     "images/Pasted image 20240307194657.png"
   ]
 }
