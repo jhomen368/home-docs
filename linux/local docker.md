@@ -1,4 +1,10 @@
 
+## Install NVIDIA Driver on Ubuntu 2404
+
+| Distribution     | $distro    | $arch  | $arch_ext |
+| ---------------- | ---------- | ------ | --------- |
+| Ubuntu 24.04 LTS | ubuntu2404 | x86_64 | amd64     |
+
 ## Use Graphics Card for Local Docker using APT
 
 https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation

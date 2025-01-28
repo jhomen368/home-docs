@@ -178,10 +178,11 @@
   },
   "active": "22c71f56a54fea43",
   "lastOpenFiles": [
+    "kubernetes/gpu passthrough.md",
+    "linux/local docker.md",
     "apps/containers/pterodactyl.md",
     "apps/containers/pihole.md",
     "apps/containers/nzbget.md",
-    "kubernetes/gpu passthrough.md",
     "windows/backup.md",
     "windows/win11-setup.md",
     "windows/winget.md",
@@ -213,7 +214,6 @@
     "2024-10-04.md",
     "misc/Certmaster CE.md",
     "linux/flux.md",
-    "Untitled.md",
     "images/Pasted image 20240307194657.png"
   ]
 }
