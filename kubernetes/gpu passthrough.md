@@ -20,7 +20,7 @@ sudo apt-get install build-essential nvidia-container-toolkit cloud-utils cloud-
 Disable Secure Boot, Add PCI Graphics
 
 ```
-curl -s -o /tmp/NVIDIA-Linux-x86_64-560.35.03.run http://international.download.nvidia.com/XFree86/Linux-x86_64/560.35.03/NVIDIA-Linux-x86_64-560.35.03.run
+curl -s -o /tmp/NVIDIA-Linux-x86_64-560.35.03.run https://international.download.nvidia.com/XFree86/Linux-x86_64/560.35.03/NVIDIA-Linux-x86_64-560.35.03.run
 
 sudo sh /tmp/NVIDIA-Linux-x86_64-560.35.03.run -s
 ```

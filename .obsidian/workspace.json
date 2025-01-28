@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/backup.md",
+                "file": "kubernetes/gpu passthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backup"
+              "title": "gpu passthrough"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nvidia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,10 +179,10 @@
   },
   "active": "22c71f56a54fea43",
   "lastOpenFiles": [
+    "windows/backup.md",
     "windows/win11-setup.md",
     "windows/winget.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
-    "windows/backup.md",
     "unifi/dns request redirect.md",
     "linux/ansible install.md",
     "kubernetes/kubectl.md",
