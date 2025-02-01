@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/win11-setup.md",
+                "file": "windows/graphics settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "win11-setup"
+              "title": "graphics settings"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "22c71f56a54fea43",
   "lastOpenFiles": [
-    "windows/graphics settings.md",
+    "windows/files/Pasted image 20250201124848.png",
+    "windows/files/Pasted image 20250201124614.png",
     "windows/win11-setup.md",
+    "windows/graphics settings.md",
     "windows/winget.md",
     "windows/backup.md",
     "windows/files/Pasted image 20250201121912.png",
@@ -209,7 +211,6 @@
     "apps/terraform/resources.md",
     "apps/containers/wg-easy.md",
     "apps/containers/pterodactyl.md",
-    "apps/containers/pihole.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/Untitled 20241124 125054.mdenc",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
