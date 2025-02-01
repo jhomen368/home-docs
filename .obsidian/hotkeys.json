@@ -1,0 +1,11 @@
+{
+  "meld-encrypt:meld-encrypt": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}
