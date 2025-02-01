@@ -9,7 +9,7 @@ flux check --pre
 ```
 
 ```bash
-export GITHUB_TOKEN=🔐β tnXTB4KiI4zxJeDEyhlLtQW1dT2bVMPcNZddE1Ne7S8MQPExFe/zyIjDgPa4h6jiO3lZ+wk+63vf5HCYEIGDrr4Z1kAC0ezu0/JAVhck8jgCfo6MI3RzIQ== 🔐
+export GITHUB_TOKEN=🔐β s4Fsg5P8m8wnIXLxpRWYDH9GmZW87PLGfuIcYBOzGN7qQ5+xZvu39vexNE2MRnRgIfma/8nvPeWO2dyqqK+a7T/VeS+vH5TKNDN4pqxj/MTDmrafDMftCgeaA8/n7XSGbTU4vg2ypb6Oa6OkMiVvfH/RLxla+bxby3ysgadRfwCJkhRBnwHbuXQjfNHs 🔐
 ```
 
 ```bash
