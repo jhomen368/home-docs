@@ -23,6 +23,4 @@ Content-Length: 107
 
 Node Configuration:
 
-![[Pasted image 20240307194657.png]]
-
 https://github.com/parkervcp/eggs
