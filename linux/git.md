@@ -40,3 +40,12 @@ Solve Conflicts
 git commit -m 'merge test branch'
 git push
 ```
+
+
+## generate ssh
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+```shell
+ssh-keygen -t ed25519 -C "joshua.homen@gmail.com"
+```
