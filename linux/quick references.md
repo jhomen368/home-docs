@@ -1,13 +1,16 @@
-### Displaying Disk Usage of Files and Directories
+### Disk Usage by File System
 
 ```
 sudo du -hsx /* | sort -rh | head -n 40
 ```
 
-* `du`: Estimate file size (human-readable, largest files first)
-	+ `-h`: Human-readable sizes (e.g., MB, GB)
-	+ `-s`: Summarize disk usage for each directory
-	+ `-x`: Only consider directories and files with execute permission
-* `sort`: Sort the output by size in reverse order (largest to smallest)
-	+ `-r`: Reverse order (smallest to largest)
-* `head`: Show the first 40 lines of output
+**Syntax:**
+* `du`: display the amount of disk space used by each file and directory
+	+ `-h`: human-readable format (e.g., MB, GB)
+	+ `-s`: summary mode (display total for each directory)
+	+ `-x`: skip directories that are not executable
+* `sort`: sort the output in reverse order (descending)
+	+ `-r`: reverse order
+	+ `-h`: same as above (human-readable format)
+* `head`: display the first n lines of the output
+	+ `-n 40`: show only the first 40 lines
