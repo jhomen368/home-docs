@@ -1,22 +1,15 @@
-### Summary: 
-List the 40 largest directories on the system, ranked by size in human-readable format.
+## File System Usage Summary
 
 ```
 sudo du -hsx /* | sort -rh | head -n 40
 ```
-
-### Syntax Breakdown:
-
-* `du`: Disk usage command to calculate file sizes.
-	+ `-h`: Human-readable output (e.g., MB, GB).
-	+ `-s`: Summarize file sizes for each directory.
-	+ `-x`: Only consider files and directories directly on the current filesystem.
-* `/*` : Search the entire root directory (`/`) and all its subdirectories.
-* `|` : Pipe the output to another command.
-* `sort -rh`:
-	+ `sort`: Sort the output.
-	+ `-r`: Reverse sort order (largest first).
-	+ `-h`: Human-readable format for sorting (e.g., MB, GB).
-* `head -n 40`:
-	+ `head`: Output the first few lines of input.
-	+ `-n 40`: Show only the top 40 lines.
+### Syntax Breakdown
+#### `du` Options:
+* `-h`: Human-readable file sizes (e.g., 1K, 2M)
+* `-s`: Summarize the file system usage
+* `-x`: Include only files and directories, excluding special files
+#### `sort` Options:
+* `-r`: Reverse the sort order (largest to smallest)
+* `-h`: Human-readable output for numbers
+#### `head` Option:
+* `-n 40`: Show only the first 40 lines of output
