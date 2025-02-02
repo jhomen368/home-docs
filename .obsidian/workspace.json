@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/automatic updates.md",
+                "file": "linux/stable diffusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "automatic updates"
+              "title": "stable diffusion"
             }
           }
         ]
@@ -179,10 +179,14 @@
   },
   "active": "bd189540d0e1e7a3",
   "lastOpenFiles": [
+    "linux/user setup.md",
     "linux/local docker.md",
     "linux/automatic updates.md",
-    "linux/flux.md",
     "linux/file system.md",
+    "linux/flux.md",
+    "linux/git.md",
+    "linux/stable diffusion.md",
+    "linux/ubuntu cloud image recovery.md",
     "windows/winget.md",
     "windows/win11-setup.md",
     "windows/graphics settings.md",
@@ -195,10 +199,7 @@
     "windows/files/Pasted image 20250201120654.png",
     "unifi/dns request redirect.md",
     "plex/troubleshooting.md",
-    "linux/user setup.md",
-    "linux/ubuntu cloud image recovery.md",
     "linux/ssh keys.md",
-    "linux/git.md",
     "kubernetes/traefik.md",
     "kubernetes/rancher.md",
     "kubernetes/node setup.md",
@@ -210,7 +211,6 @@
     "kubernetes/coder.md",
     "kubernetes/cert-manager.md",
     "apps/terraform/resources.md",
-    "apps/containers/wg-easy.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/Untitled 20241124 125054.mdenc",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",

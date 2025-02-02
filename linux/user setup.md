@@ -17,3 +17,15 @@ python3 -m pip install --user ansible-core
 ```bash
 python3 -m pip install ansible-dev-tools --user
 ```
+
+Add ./local/bin to path
+
+```bash
+echo 'export PATH="./local/bin:$PATH"' >> ~/.bashrc
+```
+
+reload bashrc
+
+``` bash
+source ~/.bashrc
+```
