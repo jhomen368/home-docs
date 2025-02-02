@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/flux.md",
+                "file": "windows/winget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flux"
+              "title": "winget"
             }
           }
         ]
