@@ -1,60 +1,56 @@
 
 ## Summary
 
-
 System Settings:
 
-- [enable g-sync](#enable%20g-sync)
-- [disable double/triple buffering](#disable%20double/triple%20buffering)
-- [enable low latency mode](#enable%20low%20latency%20mode)
+- [Enable G-Sync](#enable%20g-sync)
+- [Disable Double/Triple Buffering](#disable%20double/triple%20buffering)
+- [Enable Low Latency Mode](#enable%20low%20latency%20mode)
 
 Game Settings:
 
-if game supports reflex
+If the game supports Reflex:
 
--  enable **v-sync** (set in game)
--  enable **reflex on+boost** (set in game)
+- Enable **V-Sync** (set in-game)
+- Enable **Reflex On+Boost** (set in-game)
 
-if not
+If not:
 
-- disable **v-sync** (set in game)
-## optimal g-sync/free-sync configuration
+- Disable **V-Sync** (set in-game)
+
+## Optimal G-Sync/Free-Sync Configuration
 
 https://www.youtube.com/watch?v=5mWMP96UdGU
 
 ![](files/Pasted%20image%2020250201120654.png)
 ![](files/Pasted%20image%2020250201120739.png)
 
-## enable g-sync
+## Enable G-Sync
 
-1. Enable on physical monitor using on screen controls (differs per brand, look around or look it up by brand)
-
-2. Open NVIDIA control panel -> 3D Settings -> Display -> Set up G-Sync
-
-3. set per display
+1. Enable on physical monitor using on-screen controls (differs per brand; look around or look it up by brand).
+2. Open NVIDIA Control Panel -> 3D Settings -> Display -> Set up G-Sync
+3. Set per display
 
 ![](files/Pasted%20image%2020250201124848.png)
 
+## Disable Double/Triple Buffering
 
-## disable double/triple buffering
+This setting is disabled by default.
 
-This setting is disabled by default
-
-1. Open NVIDIA control panel -> 3D Settings -> Global Settings
-
-2. **Set triple buffering to off**
+1. Open NVIDIA Control Panel -> 3D Settings -> Global Settings
+2. **Set Triple Buffering to Off**
 
 ![](files/Pasted%20image%2020250201121628.png)
-## enable low latency mode 
 
-This setting is off by default
+## Enable Low Latency Mode 
 
-1. Open NVIDIA control panel -> 3D Settings -> Global Settings 
+This setting is off by default.
 
+1. Open NVIDIA Control Panel -> 3D Settings -> Global Settings
 2. **Low Latency Mode to Ultra**
 
 ![](files/Pasted%20image%2020250201121912.png)
 
-3. NVIDIA App also has this setting (duplicate? not sure of precedence order)
+3. The NVIDIA App also has this setting (duplicate? Not sure of precedence order).
 
 ![](files/Pasted%20image%2020250201124614.png)
