@@ -47,6 +47,13 @@
       "system": "You are an AI assistant that follows instruction extremely well. Help as much as you can."
     },
     {
+      "name": "Summarize - Technical",
+      "prompt": "Explain the following command, keep the length of the reponse as minimal as possible",
+      "model": "",
+      "system": "You are an experienced system administrator,",
+      "replace": false
+    },
+    {
       "name": "📖 Fix spelling and grammar",
       "prompt": "Proofread the below for spelling and grammar.",
       "system": "You are an AI assistant that follows instruction extremely well. Help as much as you can.",
