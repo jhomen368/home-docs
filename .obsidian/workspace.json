@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/stable diffusion.md",
+                "file": "windows/win11-setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stable diffusion"
+              "title": "win11-setup"
             }
           }
         ]
@@ -179,13 +179,13 @@
   },
   "active": "bd189540d0e1e7a3",
   "lastOpenFiles": [
+    "linux/stable diffusion.md",
     "linux/user setup.md",
     "linux/local docker.md",
     "linux/automatic updates.md",
     "linux/file system.md",
     "linux/flux.md",
     "linux/git.md",
-    "linux/stable diffusion.md",
     "linux/ubuntu cloud image recovery.md",
     "windows/winget.md",
     "windows/win11-setup.md",
