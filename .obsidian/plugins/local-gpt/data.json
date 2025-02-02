@@ -3,7 +3,7 @@
     "ollama": {
       "url": "http://athena.home.jhomen.org:11434",
       "defaultModel": "deepseek-r1:7b",
-      "embeddingModel": "deepseek-r1:7b",
+      "embeddingModel": "",
       "type": "ollama"
     },
     "ollama_fallback": {
@@ -45,13 +45,6 @@
       "name": "🍭 Summarize",
       "prompt": "Make a concise summary of the key points of the following text.",
       "system": "You are an AI assistant that follows instruction extremely well. Help as much as you can."
-    },
-    {
-      "name": "Summarize - Technical",
-      "prompt": "Explain the following command, keep the length of the reponse as minimal as possible",
-      "model": "",
-      "system": "You are an experienced system administrator,",
-      "replace": false
     },
     {
       "name": "📖 Fix spelling and grammar",
