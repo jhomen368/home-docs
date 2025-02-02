@@ -155,13 +155,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "fe9418aeabcd2050",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "97b653189fd17a73",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 501.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +194,12 @@
       "obsidian-git:Open Git source control": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "meld-encrypt:Encrypt/Decrypt": false
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bd189540d0e1e7a3",
+  "active": "97b653189fd17a73",
   "lastOpenFiles": [
     "windows/win11-setup.md",
     "linux/stable diffusion.md",
