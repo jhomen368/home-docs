@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/cert-manager.md",
+                "file": "kubernetes/gpu passthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cert-manager"
+              "title": "gpu passthrough"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "c4f970d8688fa3d3",
   "lastOpenFiles": [
+    "kubernetes/cert-manager.md",
     "windows/files/Pasted image 20250201124848.png",
     "windows/files/Pasted image 20250201124614.png",
     "windows/files/Pasted image 20250201121912.png",
@@ -210,7 +211,6 @@
     "kubernetes/manifests.md",
     "kubernetes/gpu passthrough.md",
     "kubernetes/coder.md",
-    "kubernetes/cert-manager.md",
     "linux/installs/git.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/Untitled 20241124 125054.mdenc",
