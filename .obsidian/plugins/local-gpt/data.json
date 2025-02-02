@@ -2,7 +2,7 @@
   "providers": {
     "ollama": {
       "url": "http://athena.home.jhomen.org:11434",
-      "defaultModel": "deepseek-r1:7b",
+      "defaultModel": "llama3:8b",
       "embeddingModel": "",
       "type": "ollama"
     },
