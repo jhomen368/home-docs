@@ -43,10 +43,11 @@
         "hostname": "athena.home.jhomen.org",
         "port": 11434,
         "protocol": "http",
-        "model_name": "ollama",
-        "streaming": true,
-        "path": "/api/chat",
-        "api_key": ""
+        "model_name": "llama3:8b",
+        "streaming": false,
+        "path": "/v1/chat/completions",
+        "api_key": "none",
+        "max_input_tokens": 30
       },
       "open_router": {
         "model_key": "mistralai/mistral-7b-instruct:free",
@@ -7581,8 +7582,8 @@
       "model_key": "None"
     },
     "language": "en",
-    "review_context": true,
+    "review_context": false,
     "lookup_limit": "10",
-    "send_tool_output_in_user_message": true
+    "send_tool_output_in_user_message": false
   }
 }

@@ -5,9 +5,7 @@
   "actions": {
     "lookup": true
   },
-  "smart_notices": {
-    "muted": {}
-  },
+  "smart_notices": {},
   "system_prompts_folder": "smart prompts",
   "smart_chat_folder": "smart-chats",
   "smart_chat_folder_last": "smart-chats",
