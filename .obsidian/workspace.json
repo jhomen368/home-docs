@@ -179,6 +179,8 @@
   },
   "active": "c4f970d8688fa3d3",
   "lastOpenFiles": [
+    "misc/Untitled.md",
+    "linux/quick references.md",
     "kubernetes/gpu passthrough.md",
     "kubernetes/cert-manager.md",
     "windows/files/Pasted image 20250201124848.png",
@@ -193,7 +195,6 @@
     "linux/procedures/user setup.md",
     "linux/procedures/ubuntu cloud image recovery.md",
     "linux/procedures",
-    "linux/quick references.md",
     "linux/ssh keys.md",
     "kubernetes/flux.md",
     "linux/installs/docker.md",
