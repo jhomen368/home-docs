@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee78fcc3bcf58b2f",
+        "id": "e8f0cbb6ca0d5ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f970d8688fa3d3",
+            "id": "c86e8f6617033730",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/quick references.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "quick references"
+              "title": "New tab"
             }
           }
         ]
@@ -177,10 +173,15 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "c4f970d8688fa3d3",
+  "active": "c86e8f6617033730",
   "lastOpenFiles": [
-    "misc/Untitled.md",
     "linux/quick references.md",
+    "misc/Untitled.md",
+    "misc/files/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
+    "misc/files",
+    "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432 2.markdown",
+    "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432 1.markdown",
+    "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
     "kubernetes/gpu passthrough.md",
     "kubernetes/cert-manager.md",
     "windows/files/Pasted image 20250201124848.png",
@@ -212,15 +213,9 @@
     "kubernetes/longhorn.md",
     "kubernetes/manifests.md",
     "kubernetes/coder.md",
-    "linux/installs/git.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/Untitled 20241124 125054.mdenc",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
-    "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip.zip",
-    "windows/files/custom_apps.json",
-    "windows/files/basic_apps.json",
-    "windows/files",
-    "Untitled",
     "images/Pasted image 20240307194657.png"
   ]
 }
