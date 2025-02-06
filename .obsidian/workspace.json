@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/traefik.md",
+                "file": "linux/quick references.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "traefik"
+              "title": "quick references"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,8 +179,8 @@
   },
   "active": "c86e8f6617033730",
   "lastOpenFiles": [
-    "kubernetes/cert-manager.md",
     "kubernetes/traefik.md",
+    "kubernetes/cert-manager.md",
     "linux/quick references.md",
     "misc/Untitled.md",
     "misc/files/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",

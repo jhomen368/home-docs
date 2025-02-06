@@ -31,3 +31,22 @@ Alternatively, you can also use the `-n` option to specify the command to run in
 docker exec -it -n <container_name> /bin/bash
 ```
 
+### Checking File Size Human Readable Ubuntu CLI
+
+To check the file size in a human-readable format using the Ubuntu command-line interface (CLI), you can use the `humanize` package and the `du` command.
+
+Here are some examples:
+
+* To display the file size in bytes, kilobytes, megabytes, or gigabytes:
+```
+du -h filename
+```
+This will show the file size in a human-readable format, such as "1.2M" for 1.2 megabytes or "4K" for 4 kilobytes.
+
+* To display the total disk usage of a directory and its subdirectories:
+```
+du -sh /path/to/directory
+```
+This will show the total disk usage in a human-readable format, including the size of files and directories within the specified path.
+
+Note: The `-h` option stands for "human-readable" and is used to display file sizes in a more readable format.
