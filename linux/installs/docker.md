@@ -1,4 +1,9 @@
+## Clean up Old NVIDIA Drivers on Ubuntu
 
+```bash
+sudo apt-get purge nvidia*
+sudo apt-get autoremove 
+```
 ## Install NVIDIA Driver on Ubuntu 2404
 
 | Distribution     | $distro    | $arch  | $arch_ext |
