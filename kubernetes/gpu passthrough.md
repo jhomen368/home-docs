@@ -19,7 +19,7 @@ sudo apt-get install build-essential nvidia-container-toolkit cloud-utils cloud-
 
 Disable Secure Boot, Add PCI Graphics
 
-[note#Alt Install of NVIDIA Driver](../linux/installs/docker.md)[]
+[Alt Install of NVIDIA Driver](../linux/installs/docker.md#Alt%20Install%20of%20NVIDIA%20Driver)
 
 ```
 curl -s -o /tmp/NVIDIA-Linux-x86_64-560.35.03.run https://international.download.nvidia.com/XFree86/Linux-x86_64/560.35.03/NVIDIA-Linux-x86_64-560.35.03.run
