@@ -30,9 +30,19 @@ sudo apt install cuda-drivers
 
 ## Alt Install of NVIDIA Driver
 
+Automated url download:
+
 ```bash
 curl -s https://download.nvidia.com/XFree86/Linux-x86_64/latest.txt | awk '{print $2}' | xargs -I{} curl -o /tmp/NVIDIA.run https://download.nvidia.com/XFree86/Linux-x86_64/{}
 ```
+
+Manually specified url download:
+
+```bash
+curl -o /tmp/NVIDIA.run https://download.nvidia.com/XFree86/Linux-x86_64/570.86.16/NVIDIA-Linux-x86_64-570.86.16.run
+```
+
+Install driver
 
 ```bash
 sudo sh /tmp/NVIDIA.run -s
