@@ -23,7 +23,15 @@ sudo apt install nvidia-open
 sudo apt install cuda-drivers
 ```
 
+## Alt Install of NVIDIA Driver
 
+```bash
+curl -s https://download.nvidia.com/XFree86/Linux-x86_64/latest.txt | awk '{print $2}' | xargs -I{} curl -o /tmp/NVIDIA.run https://download.nvidia.com/XFree86/Linux-x86_64/{}
+```
+
+```bash
+sudo sh /tmp/NVIDIA.run -s
+```
 
 ## Use Graphics Card for Local Docker using APT
 

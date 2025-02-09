@@ -19,6 +19,8 @@ sudo apt-get install build-essential nvidia-container-toolkit cloud-utils cloud-
 
 Disable Secure Boot, Add PCI Graphics
 
+[note#Alt Install of NVIDIA Driver](../linux/installs/docker.md)[]
+
 ```
 curl -s -o /tmp/NVIDIA-Linux-x86_64-560.35.03.run https://international.download.nvidia.com/XFree86/Linux-x86_64/560.35.03/NVIDIA-Linux-x86_64-560.35.03.run
 
@@ -38,7 +40,7 @@ sudo bash /tmp/patch.sh
 sudo bash /tmp/patch-fbc.sh
 ```
 
-
+[[#heading|displayText]]
 
 https://github.com/NVIDIA/k8s-device-plugin
 
