@@ -22,6 +22,9 @@ sudo apt install nvidia-open
 ```
 sudo apt install cuda-drivers
 ```
+
+
+
 ## Use Graphics Card for Local Docker using APT
 
 https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installation

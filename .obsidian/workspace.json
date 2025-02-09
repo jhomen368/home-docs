@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/quick references.md",
+                "file": "linux/installs/docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quick references"
+              "title": "docker"
             }
           }
         ]
@@ -179,9 +179,9 @@
   },
   "active": "c86e8f6617033730",
   "lastOpenFiles": [
+    "linux/quick references.md",
     "kubernetes/traefik.md",
     "kubernetes/cert-manager.md",
-    "linux/quick references.md",
     "misc/Untitled.md",
     "misc/files/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
     "misc/files",
