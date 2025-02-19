@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/quick references.md",
+                "file": "linux/installs/docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quick references"
+              "title": "docker"
             }
           }
         ]
@@ -179,13 +179,13 @@
   },
   "active": "c86e8f6617033730",
   "lastOpenFiles": [
+    "linux/quick references.md",
     "linux/installs/docker.md",
     "kubernetes/gpu passthrough.md",
     "kubernetes/kubectl.md",
     "kubernetes/flux.md",
     "kubernetes/nfs-subdir-external-provisioner.md",
     "linux/installs/automatic updates.md",
-    "linux/quick references.md",
     "kubernetes/traefik.md",
     "kubernetes/cert-manager.md",
     "misc/Untitled.md",
