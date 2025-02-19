@@ -1,18 +1,26 @@
 {
-  "meld-encrypt:meld-encrypt": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
   "local-gpt:context-menu": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "A"
+    }
+  ],
+  "meld-encrypt:meld-encrypt": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "meld-encrypt:meld-encrypt-in-place": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
     }
   ]
 }

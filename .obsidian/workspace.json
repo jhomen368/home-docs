@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/installs/docker.md",
+                "file": "kubernetes/flux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "flux"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "traefik",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +180,8 @@
   },
   "active": "c86e8f6617033730",
   "lastOpenFiles": [
-    "linux/quick references.md",
     "linux/installs/docker.md",
+    "linux/quick references.md",
     "kubernetes/gpu passthrough.md",
     "kubernetes/kubectl.md",
     "kubernetes/flux.md",
