@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/graphics settings.md",
+                "file": "kubernetes/flux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "graphics settings"
+              "title": "flux"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,6 +195,7 @@
   },
   "active": "5cf96fd5572e1f21",
   "lastOpenFiles": [
+    "windows/graphics settings.md",
     "kubernetes/kubectl.md",
     "kubernetes/flux.md",
     "linux/installs/docker.md",
@@ -217,7 +219,6 @@
     "windows/files/Pasted image 20250201120654.png",
     "windows/backup.md",
     "windows/win11-setup.md",
-    "windows/graphics settings.md",
     "linux/procedures/user setup.md",
     "linux/procedures/ubuntu cloud image recovery.md",
     "linux/procedures",
