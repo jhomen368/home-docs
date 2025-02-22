@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/kubectl.md",
+                "file": "windows/graphics settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kubectl"
+              "title": "graphics settings"
             }
           }
         ],
@@ -192,13 +192,13 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "1ac9dc7c8507a1ce",
+  "active": "5cf96fd5572e1f21",
   "lastOpenFiles": [
+    "kubernetes/kubectl.md",
     "kubernetes/flux.md",
     "linux/installs/docker.md",
     "linux/quick references.md",
     "kubernetes/gpu passthrough.md",
-    "kubernetes/kubectl.md",
     "kubernetes/nfs-subdir-external-provisioner.md",
     "linux/installs/automatic updates.md",
     "kubernetes/traefik.md",
