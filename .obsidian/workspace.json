@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/flux.md",
+                "file": "linux/quick references.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flux"
+              "title": "quick references"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flux",
+                "query": "docker exec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,9 +195,9 @@
   },
   "active": "5cf96fd5572e1f21",
   "lastOpenFiles": [
+    "kubernetes/flux.md",
     "windows/graphics settings.md",
     "kubernetes/kubectl.md",
-    "kubernetes/flux.md",
     "linux/installs/docker.md",
     "linux/quick references.md",
     "kubernetes/gpu passthrough.md",
