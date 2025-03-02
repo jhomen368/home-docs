@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/quick references.md",
+                "file": "linux/installs/docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quick references"
+              "title": "docker"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker exec",
+                "query": "nvidia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,11 +195,11 @@
   },
   "active": "5cf96fd5572e1f21",
   "lastOpenFiles": [
+    "linux/quick references.md",
     "kubernetes/flux.md",
     "windows/graphics settings.md",
     "kubernetes/kubectl.md",
     "linux/installs/docker.md",
-    "linux/quick references.md",
     "kubernetes/gpu passthrough.md",
     "kubernetes/nfs-subdir-external-provisioner.md",
     "linux/installs/automatic updates.md",
