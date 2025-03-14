@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/server.md",
+                "file": "linux/synology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "server"
+              "title": "synology"
             }
           }
         ]
@@ -179,13 +179,14 @@
   },
   "active": "c86e8f6617033730",
   "lastOpenFiles": [
-    "kubernetes/gpu passthrough.md",
+    "linux/quick references.md",
+    "linux/synology.md",
     "windows/server.md",
+    "kubernetes/gpu passthrough.md",
     "linux/installs/docker.md",
     "windows/graphics settings.md",
     "windows/backup.md",
     "kubernetes/kubectl.md",
-    "linux/quick references.md",
     "kubernetes/flux.md",
     "kubernetes/nfs-subdir-external-provisioner.md",
     "linux/installs/automatic updates.md",
@@ -217,7 +218,6 @@
     "apps/containers/nzbget.md",
     "apps/ansible/kubernetes rke2 deployment.md",
     "apps/unifi/dns request redirect.md",
-    "kubernetes/longhorn.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/Untitled 20241124 125054.mdenc",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
