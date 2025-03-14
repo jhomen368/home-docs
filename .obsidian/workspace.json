@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/gpu passthrough.md",
+                "file": "windows/server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gpu passthrough"
+              "title": "server"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "c86e8f6617033730",
   "lastOpenFiles": [
-    "linux/installs/docker.md",
     "kubernetes/gpu passthrough.md",
+    "windows/server.md",
+    "linux/installs/docker.md",
     "windows/graphics settings.md",
     "windows/backup.md",
     "kubernetes/kubectl.md",
@@ -217,7 +218,6 @@
     "apps/ansible/kubernetes rke2 deployment.md",
     "apps/unifi/dns request redirect.md",
     "kubernetes/longhorn.md",
-    "kubernetes/manifests.md",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/Untitled 20241124 125054.mdenc",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
