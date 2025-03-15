@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/backup.md",
+                "file": "kubernetes/coder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backup"
+              "title": "coder"
             }
           }
         ]
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -170,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,39 +195,41 @@
   },
   "active": "1ac9dc7c8507a1ce",
   "lastOpenFiles": [
-    "windows/graphics settings.md",
+    "kubernetes/cert-manager.md",
     "windows/win11-setup.md",
-    "linux/procedures/user setup.md",
+    "linux/synology.md",
+    "linux/quick references.md",
+    "linux/installs/automatic updates.md",
+    "linux/installs/docker.md",
     "linux/procedures/ubuntu cloud image recovery.md",
-    "windows/backup.md",
+    "kubernetes/gpu passthrough.md",
+    "apps/plex/troubleshooting.md",
+    "apps/ansible/kubernetes rke2 deployment.md",
+    "apps/containers/wg-easy.md",
+    "apps/containers/pterodactyl.md",
+    "apps/containers/pihole.md",
+    "apps/containers/nzbget.md",
+    "kubernetes/coder.md",
+    "learning",
+    "notes",
+    "windows/graphics-settings.md",
     "windows/server.md",
     "windows/winget.md",
-    "linux/installs/docker.md",
-    "apps/containers/wg-easy.md",
+    "windows/backup.md",
+    "windows/files/Pasted image 20250201120739.png",
+    "linux/procedures/user setup.md",
     "kubernetes/node setup.md",
     "kubernetes/rancher.md",
     "windows/files/Pasted image 20250201124848.png",
     "windows/files/Pasted image 20250201124614.png",
     "windows/files/Pasted image 20250201121912.png",
     "windows/files/Pasted image 20250201121628.png",
-    "windows/files/Pasted image 20250201120739.png",
     "windows/files/Pasted image 20250201120654.png",
-    "linux/quick references.md",
     "linux/installs/git.md",
     "New Text Document.txt",
-    "linux/installs/automatic updates.md",
-    "kubernetes/cert-manager.md",
-    "kubernetes/coder.md",
     "kubernetes/longhorn.md",
     "kubernetes/manifests.md",
     "kubernetes/nfs-subdir-external-provisioner.md",
-    "kubernetes/gpu passthrough.md",
-    "apps/plex/troubleshooting.md",
-    "apps/terraform/resources.md",
-    "apps/containers/pterodactyl.md",
-    "apps/containers/pihole.md",
-    "apps/containers/nzbget.md",
-    "apps/ansible/kubernetes rke2 deployment.md",
     "misc/files/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
     "misc/files",
     "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432 2.markdown",
@@ -233,8 +237,6 @@
     "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
     "linux/procedures",
     "linux/installs",
-    "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
-    "windows/Untitled 20241124 125054.mdenc",
     "images/Pasted image 20240307194657.png"
   ]
 }
