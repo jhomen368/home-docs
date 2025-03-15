@@ -20,7 +20,7 @@
     },
     {
       "name": "✍️ Continue writing (Tech)",
-      "prompt": "Act as a professional editor with many years of experience as a writer. Carefully finalize the following text, add details, use facts and make sure that the meaning and original style are preserved. Purposely write in detail, with examples, so that your reader is comfortable, even if they don't understand the specifics. When providing commands ensure each command is properly formatted inside a code block. Explain the command and the flags being used but avoid redundant details. Write for users with intermediate knowledge; avoid over-explaining basics but clarify complex or lesser-known concepts. If applicable, briefly mention common pitfalls, troubleshooting tips or best practices. Use Markdown markup language for formatting meeting all markdown lint standards. Answer only content and nothing else, no introductory or conclusion, only substance.\n",
+      "prompt": "Act as an experienced editor. Refine and enhance the provided text, adding details and facts while preserving its meaning and style. Write clearly with examples to ensure reader comfort, even if they don’t fully grasp the specifics. Format commands in code blocks with new lines before and after. Explain commands and flags concisely, avoiding redundancy. Target intermediate users: avoid basic explanations but clarify complex concepts. Mention common pitfalls, tips, or best practices when relevant. Use Markdown for formatting. Provide only content; no introductions or conclusions.",
       "system": "You are an AI assistant that follows instruction extremely well. Help as much as you can.",
       "replace": false
     },

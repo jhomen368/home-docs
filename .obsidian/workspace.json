@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/os/linux/ubuntu/installs/automatic-updates.md",
-                "mode": "source",
-                "source": false
+                "file": "knowledge/os/linux/ubuntu/unattended-upgrades.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "automatic-updates"
+              "title": "unattended-upgrades"
             }
           }
         ]
@@ -195,13 +195,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2229afdee45c2fbb",
+  "active": "78dedcd2c3008f82",
   "lastOpenFiles": [
+    "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
+    "knowledge/os/linux/ubuntu/unattended-upgrades.md",
     "technologies/ansible.md",
     "technologies/git.md",
     "technologies/winget.md",
-    "knowledge/os/linux/ubuntu/installs/automatic-updates.md",
-    "knowledge/os/linux/ubuntu/procedures/ubuntu-cloud-image-recovery.md",
     "technologies/docker.md",
     "knowledge/os/linux/cheat-sheet.md",
     "knowledge/os/windows/cheat-sheet.md",
