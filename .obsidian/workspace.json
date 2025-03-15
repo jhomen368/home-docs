@@ -11,10 +11,14 @@
             "id": "6b310349bb542b41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "windows/server.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "server"
             }
           }
         ]
@@ -170,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 651.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +191,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "89c3d76c7cecdf78",
+  "active": "6b310349bb542b41",
   "lastOpenFiles": [
     "windows/winget.md",
-    "windows/server.md",
-    "windows/win11-setup.md",
-    "windows/backup.md",
     "windows/graphics settings.md",
+    "windows/win11-setup.md",
+    "linux/installs/docker.md",
+    "windows/server.md",
+    "windows/backup.md",
     "apps/containers/wg-easy.md",
     "kubernetes/node setup.md",
     "kubernetes/rancher.md",
@@ -221,7 +226,6 @@
     "apps/containers/pihole.md",
     "apps/containers/nzbget.md",
     "apps/ansible/kubernetes rke2 deployment.md",
-    "kubernetes/flux.md",
     "misc/files/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
     "misc/files",
     "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432 2.markdown",
