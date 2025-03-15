@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies/docker.md",
+                "file": "projects/main-desktop/win11-initial-setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "win11-initial-setup"
             }
           }
         ]
@@ -197,10 +197,11 @@
   },
   "active": "2229afdee45c2fbb",
   "lastOpenFiles": [
+    "projects/main-desktop/backup-previous-system.md",
+    "technologies/docker.md",
     "technologies/kubernetes/cert-manager.md",
     "technologies/kubernetes/coder.md",
     "technologies/kubernetes/gpu-passthrough.md",
-    "projects/main-desktop/backup-previous-system.md",
     "projects/main-desktop/win11-initial-setup.md",
     "knowledge/os/linux/synology.md",
     "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
@@ -211,7 +212,6 @@
     "technologies/winget.md",
     "technologies/ansible.md",
     "technologies/git.md",
-    "technologies/docker.md",
     "projects/main-desktop/winget.md",
     "technologies/winget/usage.md",
     "technologies/winget",
