@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 383.5
   },
   "right": {
     "id": "48188431bc0a6d2e",
@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/winget.md"
+                "file": "linux/installs/automatic updates.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of winget"
+              "title": "Outline of automatic updates"
             }
           },
           {
@@ -155,9 +158,29 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "501d920c86f9d165",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "09152a83173063bc",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -175,10 +198,12 @@
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
-      "meld-encrypt:Encrypt/Decrypt In-place": false
+      "meld-encrypt:Encrypt/Decrypt In-place": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c86e8f6617033730",
+  "active": "09152a83173063bc",
   "lastOpenFiles": [
     "windows/server.md",
     "windows/backup.md",
