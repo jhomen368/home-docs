@@ -1,3 +1,7 @@
+---
+tags:
+  - windows
+---
 
 ## Windows Subsystem for Linux (WSL)
 
@@ -72,3 +76,4 @@ Peace is an open-source audio equalization tool designed for high-quality sound 
    Peace works with a variety of audio interfaces and is compatible with most modern Windows systems.
 
 If you encounter issues or need support, check the official forums or documentation for troubleshooting tips and updates.
+

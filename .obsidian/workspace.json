@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d654407470d4f53",
+        "id": "5b5714db866d5072",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2a1ac872831841",
+            "id": "88ad99dc6c78448e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies/winget.md",
+                "file": "knowledge/os/linux/ubuntu/installs/docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winget"
+              "title": "docker"
             }
           }
         ]
@@ -195,11 +195,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ac9dc7c8507a1ce",
+  "active": "88ad99dc6c78448e",
   "lastOpenFiles": [
+    "knowledge/os/linux/ubuntu/installs/automatic updates.md",
+    "knowledge/os/linux/ubuntu/installs/docker.md",
+    "technologies/git.md",
+    "projects/main-desktop/backup-previous-system.md",
     "projects/main-desktop/win11-initial-setup.md",
     "technologies/winget.md",
-    "projects/main-desktop/backup-previous-system.md",
     "projects/main-desktop/winget.md",
     "technologies/kubernetes/gpu-passthrough.md",
     "knowledge/os/windows/cheat-sheet.md",
@@ -216,13 +219,10 @@
     "technologies/kubernetes/coder.md",
     "technologies/kubernetes/cert-manager.md",
     "knowledge/os/windows/win11",
-    "knowledge/os/linux/ubuntu/installs/automatic updates.md",
     "knowledge/os/linux/ubuntu",
-    "knowledge/os/linux/ubuntu/installs/git.md",
     "projects/main-desktop",
     "technologies",
     "knowledge/os",
-    "knowledge/os/linux/ubuntu/installs/docker.md",
     "technologies/kubernetes/node setup.md",
     "knowledge",
     "technologies/kubernetes/rancher.md",

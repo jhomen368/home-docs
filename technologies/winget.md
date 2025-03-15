@@ -1,3 +1,7 @@
+---
+tags:
+  - windows
+---
 
 Winget is a powerful package manager built into Windows 10 and later versions, designed to simplify the process of searching for, installing, upgrading, and managing applications. Below are some essential commands and examples that demonstrate how to use Winget effectively.  
 

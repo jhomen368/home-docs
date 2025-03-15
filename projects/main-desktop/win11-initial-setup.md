@@ -1,3 +1,8 @@
+---
+tags:
+  - windows
+  - win11
+---
 
 ## Debloat
 https://github.com/Raphire/Win11Debloat
