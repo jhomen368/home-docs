@@ -1,6 +1,7 @@
 ---
 tags:
   - windows
+  - general-cli
 ---
 
 ## Running System Maintenance Commands

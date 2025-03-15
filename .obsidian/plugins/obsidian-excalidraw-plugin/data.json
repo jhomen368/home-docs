@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "_drawings",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -36,8 +36,8 @@
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": false,
-  "matchThemeAlways": false,
+  "matchTheme": true,
+  "matchThemeAlways": true,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",

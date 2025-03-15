@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3160f9d47bef95e5",
+        "id": "d1c916743e8a3516",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a503500398ac68",
+            "id": "8233f9ae1e48df27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies/docker.md",
+                "file": "knowledge/os/linux/cheat-sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "cheat-sheet"
+            }
+          },
+          {
+            "id": "f4ee62ddbdd3b859",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_drawings/Drawing 2025-03-15 12.12.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-15 12.12.37.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technologies/docker.md",
+                "file": "knowledge/os/linux/cheat-sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for docker"
+              "title": "Backlinks for cheat-sheet"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technologies/docker.md",
+                "file": "knowledge/os/linux/cheat-sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from docker"
+              "title": "Outgoing links from cheat-sheet"
             }
           },
           {
@@ -128,7 +141,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technologies/docker.md",
+                "file": "knowledge/os/linux/cheat-sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of docker"
+              "title": "Outline of cheat-sheet"
             }
           },
           {
@@ -172,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,48 +208,50 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ac9dc7c8507a1ce",
+  "active": "f4ee62ddbdd3b859",
   "lastOpenFiles": [
+    "knowledge/os/linux/cheat-sheet.md",
+    "_drawings/Drawing 2025-03-15 12.12.37.excalidraw.md",
+    "_drawings/Drawing 2025-03-15 12.10.09.excalidraw.md",
+    "_drawings/Drawing 2025-03-15 12.07.52.excalidraw.md",
+    "_drawings/Drawing 2025-03-15 12.06.16.excalidraw.md",
+    "_drawings/Untitled.canvas",
+    "knowledge/os/windows/cheat-sheet.md",
+    "knowledge/os/windows/win11/files/gsync-disable-buffering.png",
+    "knowledge/os/linux/synology.md",
+    "knowledge/os/linux/ubuntu/unattended-upgrades.md",
+    "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
+    "technologies/ansible.md",
+    "technologies/docker.md",
     "technologies/git.md",
     "technologies/winget.md",
     "_templates/basic-note.md",
-    "knowledge/os/windows/cheat-sheet.md",
     "knowledge/os/windows/win11/files/gsync-enable-nvidia-control.png",
     "knowledge/os/windows/win11/files/gsync-low-latency-nvidia-app.png",
     "knowledge/os/windows/win11/files/gsync-low-latency-nvidia-control.png",
     "knowledge/os/windows/win11/files/gsync-summary.png",
     "knowledge/os/windows/win11/graphics-settings.md",
-    "knowledge/os/windows/win11/files/gsync-disable-buffering.png",
     "knowledge/os/windows/active-directory.md",
     "projects/main-desktop/backup-previous-system.md",
     "projects/main-desktop/win11-initial-setup.md",
-    "knowledge/os/linux/synology.md",
     "knowledge/os/windows/windows-server/active-directory.md",
     "knowledge/os/windows/windows-server",
-    "technologies/docker.md",
     "Test.md",
     "test-note.md",
-    "technologies/ansible.md",
-    "knowledge/os/linux/ubuntu/unattended-upgrades.md",
-    "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
     "technologies/kubernetes/cert-manager.md",
     "technologies/kubernetes/coder.md",
     "technologies/kubernetes/gpu-passthrough.md",
-    "knowledge/os/linux/cheat-sheet.md",
     "projects/main-desktop/winget.md",
     "technologies/winget/usage.md",
     "technologies/winget",
     "artifacts/win11-debloat",
     "artifacts/winget",
     "artifacts",
-    "technologies/kubernetes/flux.md",
     "knowledge/os/windows/win11",
     "knowledge/os/linux/ubuntu",
     "projects/main-desktop",
     "technologies",
     "knowledge/os",
-    "technologies/kubernetes/node setup.md",
-    "technologies/kubernetes/rancher.md",
     "knowledge/os/windows/win11/files/gsync-summary-latency-compare.png",
     "images/Pasted image 20240307194657.png"
   ]

@@ -1,3 +1,8 @@
+---
+tags:
+  - linux
+  - general-cli
+---
 ### Disk Usage by File System
 
 ```
