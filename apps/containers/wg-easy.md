@@ -1,3 +1,0 @@
-
-https://doc.traefik.io/traefik/routing/providers/kubernetes-crd/#kind-ingressrouteudp
-

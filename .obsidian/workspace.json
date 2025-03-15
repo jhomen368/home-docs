@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/coder.md",
+                "file": "knowlege/operating_systems/linux/synology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coder"
+              "title": "synology"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,50 +193,50 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1ac9dc7c8507a1ce",
+  "active": "6b310349bb542b41",
   "lastOpenFiles": [
-    "kubernetes/cert-manager.md",
-    "windows/win11-setup.md",
-    "linux/synology.md",
-    "linux/quick references.md",
-    "linux/installs/automatic updates.md",
-    "linux/installs/docker.md",
-    "linux/procedures/ubuntu cloud image recovery.md",
-    "kubernetes/gpu passthrough.md",
-    "apps/plex/troubleshooting.md",
+    "knowlege/operating_systems/windows/windows-clients",
+    "knowlege/operating_systems/linux/cheat-sheet.md",
+    "knowlege/operating_systems/linux/ubuntu/installs/automatic updates.md",
+    "knowlege/operating_systems/linux/ubuntu",
+    "knowlege/operating_systems/linux/synology.md",
+    "knowlege/operating_systems/windows/winget.md",
+    "knowlege/operating_systems/windows/win11-setup.md",
+    "knowlege/operating_systems/linux/ubuntu/installs/git.md",
+    "projects/main-desktop",
+    "technologies",
+    "knowlege/operating_systems",
+    "knowlege/operating_systems/linux/ubuntu/installs/docker.md",
+    "technologies/kubernetes/node setup.md",
+    "knowlege",
+    "technologies/kubernetes/cert-manager.md",
+    "technologies/kubernetes/rancher.md",
+    "technologies/kubernetes/nfs-subdir-external-provisioner.md",
+    "technologies/kubernetes/coder.md",
+    "knowlege/operating_systems/windows/server.md",
+    "knowlege/operating_systems/windows/graphics-settings.md",
+    "_templates",
+    "_drawings",
     "apps/ansible/kubernetes rke2 deployment.md",
-    "apps/containers/wg-easy.md",
     "apps/containers/pterodactyl.md",
     "apps/containers/pihole.md",
     "apps/containers/nzbget.md",
-    "kubernetes/coder.md",
+    "technologies/kubernetes/traefik.md",
+    "technologies/kubernetes/kubectl.md",
+    "technologies/kubernetes/gpu passthrough.md",
+    "technologies/kubernetes/flux.md",
+    "apps/terraform/resources.md",
+    "apps/unifi/dns request redirect.md",
+    "knowlege/operating_systems/linux/ubuntu/procedures/ubuntu cloud image recovery.md",
     "learning",
-    "notes",
-    "windows/graphics-settings.md",
-    "windows/server.md",
-    "windows/winget.md",
-    "windows/backup.md",
-    "windows/files/Pasted image 20250201120739.png",
-    "linux/procedures/user setup.md",
-    "kubernetes/node setup.md",
-    "kubernetes/rancher.md",
-    "windows/files/Pasted image 20250201124848.png",
-    "windows/files/Pasted image 20250201124614.png",
-    "windows/files/Pasted image 20250201121912.png",
-    "windows/files/Pasted image 20250201121628.png",
-    "windows/files/Pasted image 20250201120654.png",
-    "linux/installs/git.md",
+    "projects",
+    "knowlege/operating_systems/windows/files/Pasted image 20250201120739.png",
+    "knowlege/operating_systems/windows/files/Pasted image 20250201124848.png",
+    "knowlege/operating_systems/windows/files/Pasted image 20250201124614.png",
+    "knowlege/operating_systems/windows/files/Pasted image 20250201121912.png",
+    "knowlege/operating_systems/windows/files/Pasted image 20250201121628.png",
+    "knowlege/operating_systems/windows/files/Pasted image 20250201120654.png",
     "New Text Document.txt",
-    "kubernetes/longhorn.md",
-    "kubernetes/manifests.md",
-    "kubernetes/nfs-subdir-external-provisioner.md",
-    "misc/files/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
-    "misc/files",
-    "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432 2.markdown",
-    "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432 1.markdown",
-    "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
-    "linux/procedures",
-    "linux/installs",
     "images/Pasted image 20240307194657.png"
   ]
 }
