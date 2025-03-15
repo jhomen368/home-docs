@@ -17,7 +17,7 @@
   "defaultModelKey": "deepseek-r1-distill-qwen-32b|lm-studio",
   "embeddingModelKey": "text-embedding-mxbai-embed-large-v1|lm-studio",
   "temperature": 0.1,
-  "maxTokens": 1000,
+  "maxTokens": 5000,
   "contextTurns": 15,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
@@ -35,7 +35,7 @@
   "chatNoteContextTags": [],
   "enableIndexSync": true,
   "debug": false,
-  "enableEncryption": false,
+  "enableEncryption": true,
   "maxSourceChunks": 3,
   "groqApiKey": "",
   "mistralApiKey": "",
@@ -48,7 +48,8 @@
       "core": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "gpt-4o",
@@ -58,7 +59,8 @@
       "core": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "gpt-4o-mini",
@@ -68,7 +70,8 @@
       "core": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "claude-3-5-sonnet-latest",
@@ -78,7 +81,8 @@
       "core": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "o1-mini",
@@ -87,7 +91,8 @@
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "o3-mini",
@@ -96,25 +101,29 @@
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "claude-3-5-haiku-latest",
       "provider": "anthropic",
       "enabled": false,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "command-r",
       "provider": "cohereai",
       "enabled": false,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "command-r-plus",
       "provider": "cohereai",
       "enabled": false,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "gemini-2.0-pro-exp",
@@ -123,7 +132,8 @@
       "isBuiltIn": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "gemini-2.0-flash",
@@ -132,13 +142,15 @@
       "isBuiltIn": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "azure-openai",
       "provider": "azure openai",
       "enabled": false,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "deepseek-r1-distill-qwen-32b",

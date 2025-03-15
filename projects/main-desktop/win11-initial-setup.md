@@ -12,11 +12,12 @@ https://github.com/farag2/Sophia-Script-for-Windows
 https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.7.2
 https://github.com/farag2/Sophia-Script-for-Windows/releases/download/6.7.2/Sophia.Script.Wrapper.v2.7.4.zip
 
-![Sophia Script for Windows 11 Customized](../../artifacts/win11-debloat/Sophia_Script_for_Windows_11_v6.7.2_customized.zip)
+![Sophia Script for Windows 11 Customized](../../artifacts/win11-debloat/Sophia_Script_for_Windows_11_v6.7.3_customized.zip)
 
 ``` powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass
-cmd /C curl -O -L -H "Accept: Accept: application/vnd.github.v3.raw" -H "Authorization: Bearer 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" https://api.github.com/repos/jhomen368/home-docs/contents/windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip
+
+cmd /C "curl -O https://github.com/jhomen368/home-docs/blob/main/artifacts/win11-debloat/Sophia_Script_for_Windows_11_v6.7.3_customized.zip"
 
 Expand-Archive Sophia_Script_for_Windows_11_v6.7.3_customized.zip
 
@@ -39,21 +40,10 @@ https://gist.githubusercontent.com/emilwojcik93/788eca2e456488c360fabc15d274031d
 
 ## Install personalized basic package list from git
 
-![basic_apps.json](../../artifacts/winget/basic_apps.json)
-
-``` powershell
-cmd /C curl -O -L -H "Accept: Accept: application/vnd.github.v3.raw" -H "Authorization: Bearer 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" https://api.github.com/repos/jhomen368/home-docs/contents/windows/files/basic_apps.json
-
-winget import -i .\basic_apps.json --no-upgrade --accept-package-agreements --accept-source-agreements
-
-rm basic_apps.json
-```
-
-
 ![custom_apps.json](../../artifacts/winget/custom_apps.json)
 
 ``` powershell
-cmd /C curl -O -L -H "Accept: Accept: application/vnd.github.v3.raw" -H "Authorization: Bearer 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" https://api.github.com/repos/jhomen368/home-docs/contents/windows/files/custom_apps.json
+cmd /C "curl -O https://github.com/jhomen368/home-docs/blob/main/artifacts/winget/custom_apps.json"
 
 winget import -i .\custom_apps.json --no-upgrade --accept-package-agreements --accept-source-agreements
 
