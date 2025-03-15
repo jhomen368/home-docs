@@ -1,0 +1,15 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "useNativeFetch": false,
+  "providers": [
+    {
+      "id": "id-1742010398544",
+      "name": "Local GPT openaiCompatible",
+      "apiKey": "",
+      "url": "http://localhost:1234/v1",
+      "type": "openai",
+      "model": "deepseek-r1-distill-qwen-7b"
+    }
+  ]
+}
