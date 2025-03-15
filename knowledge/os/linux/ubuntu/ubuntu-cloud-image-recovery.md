@@ -1,3 +1,8 @@
+---
+tags:
+  - linux
+  - recovery
+---
 
 Live CD User Creation
 

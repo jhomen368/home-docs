@@ -1,6 +1,7 @@
 ---
 tags:
   - windows
+  - backup
 ---
 
 ## Windows Subsystem for Linux (WSL)

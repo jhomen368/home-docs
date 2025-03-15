@@ -1,3 +1,8 @@
+---
+tags:
+  - nas
+  - maintenance
+---
 
 ### Deleting Files Older Than a Year
 

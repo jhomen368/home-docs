@@ -1,3 +1,8 @@
+---
+tags:
+  - linux
+  - patches
+---
 
 To set up automatic updates on Ubuntu using `unattended-upgrades`, follow these steps:
 
