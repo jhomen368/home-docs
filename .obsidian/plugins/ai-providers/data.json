@@ -9,7 +9,11 @@
       "apiKey": "",
       "url": "http://localhost:1234/v1",
       "type": "openai",
-      "model": "deepseek-r1-distill-qwen-7b"
+      "model": "deepseek-r1-distill-llama-70b",
+      "availableModels": [
+        "deepseek-r1-distill-llama-70b",
+        "text-embedding-nomic-embed-text-v1.5"
+      ]
     }
   ]
 }
