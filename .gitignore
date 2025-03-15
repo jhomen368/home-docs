@@ -1,1 +1,6 @@
 *.ajson
+
+
+
+# Ignore Smart Environment folder
+.smart-env

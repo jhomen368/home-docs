@@ -32,7 +32,7 @@
   "excluded_headings": "",
   "smart_threads": {
     "chat_model": {
-      "adapter": "lm_studio",
+      "adapter": "custom",
       "openai": {
         "model_key": "gpt-4o"
       },
@@ -40,15 +40,15 @@
         "model_key": "undefined"
       },
       "custom": {
-        "hostname": "athena.home.jhomen.org",
-        "port": 11434,
+        "hostname": "localhost",
+        "port": 1234,
         "protocol": "http",
         "model_name": "llama3:8b",
         "streaming": false,
-        "path": "/v1/chat/completions",
+        "path": "v1",
         "api_key": "none",
         "max_input_tokens": 30,
-        "api_adapter": "openai"
+        "api_adapter": "lm_studio"
       },
       "open_router": {
         "model_key": "mistralai/mistral-7b-instruct:free",
