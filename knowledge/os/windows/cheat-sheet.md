@@ -1,3 +1,7 @@
+---
+tags:
+  - windows
+---
 
 ## Running System Maintenance Commands
 

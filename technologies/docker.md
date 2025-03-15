@@ -1,5 +1,7 @@
 ---
 tags:
+  - linux
+  - docker
 ---
 
 # Install Docker on Ubuntu

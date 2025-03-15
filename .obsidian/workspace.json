@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies/docker.md",
+                "file": "technologies/ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "ansible"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 590.5
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,16 +197,19 @@
   },
   "active": "88ad99dc6c78448e",
   "lastOpenFiles": [
+    "technologies/docker.md",
     "technologies/git.md",
     "technologies/winget.md",
-    "technologies/docker.md",
-    "knowledge/os/linux/ubuntu/installs/automatic updates.md",
+    "knowledge/os/linux/ubuntu/procedures/ubuntu-cloud-image-recovery.md",
+    "technologies/ansible.md",
+    "knowledge/os/linux/cheat-sheet.md",
+    "knowledge/os/windows/cheat-sheet.md",
     "projects/main-desktop/backup-previous-system.md",
+    "knowledge/os/windows/win11/graphics-settings.md",
+    "knowledge/os/linux/ubuntu/installs/automatic updates.md",
     "projects/main-desktop/win11-initial-setup.md",
     "projects/main-desktop/winget.md",
     "technologies/kubernetes/gpu-passthrough.md",
-    "knowledge/os/windows/cheat-sheet.md",
-    "knowledge/os/windows/win11/graphics-settings.md",
     "technologies/winget/usage.md",
     "technologies/winget",
     "artifacts/win11-debloat",
@@ -214,7 +217,6 @@
     "knowledge/os/windows/files/gsync-summary.png",
     "artifacts",
     "knowledge/os/linux/synology.md",
-    "knowledge/os/linux/cheat-sheet.md",
     "technologies/kubernetes/flux.md",
     "technologies/kubernetes/coder.md",
     "technologies/kubernetes/cert-manager.md",
@@ -232,8 +234,6 @@
     "apps/containers/pihole.md",
     "apps/containers/nzbget.md",
     "technologies/kubernetes/traefik.md",
-    "technologies/kubernetes/kubectl.md",
-    "apps/terraform/resources.md",
     "knowledge/os/windows/files/gsync-summary-latency-compare.png",
     "knowledge/os/windows/files/gsync-enable-nvidia-control.png",
     "knowledge/os/windows/files/gsync-low-latency-nvidia-app.png",

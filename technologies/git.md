@@ -2,7 +2,7 @@
 tags:
   - windows
   - linux
-  - technology
+  - git
 ---
 
 ### 1. Install Git
