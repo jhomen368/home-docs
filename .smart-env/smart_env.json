@@ -32,7 +32,7 @@
   "excluded_headings": "",
   "smart_threads": {
     "chat_model": {
-      "adapter": "custom",
+      "adapter": "lm_studio",
       "openai": {
         "model_key": "gpt-4o"
       },
@@ -44,11 +44,12 @@
         "port": 1234,
         "protocol": "http",
         "model_name": "llama3:8b",
-        "streaming": false,
+        "streaming": true,
         "path": "v1",
-        "api_key": "none",
-        "max_input_tokens": 30,
-        "api_adapter": "lm_studio"
+        "api_key": "",
+        "max_input_tokens": 10,
+        "api_adapter": "openai",
+        "id": "deepseek-r1-distill-qwen-32b"
       },
       "open_router": {
         "model_key": "mistralai/mistral-7b-instruct:free",
@@ -7576,8 +7577,14 @@
         }
       },
       "lm_studio": {
-        "model_key": "deepseek-r1-distill-qwen-32b",
+        "model_key": "deepseek-r1-distill-llama-8b",
         "models": {
+          "deepseek-r1-distill-llama-8b": {
+            "id": "deepseek-r1-distill-llama-8b",
+            "model_name": "deepseek-r1-distill-llama-8b",
+            "description": "LM Studio model: deepseek-r1-distill-llama-8b",
+            "multimodal": false
+          },
           "deepseek-r1-distill-qwen-32b": {
             "id": "deepseek-r1-distill-qwen-32b",
             "model_name": "deepseek-r1-distill-qwen-32b",

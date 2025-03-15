@@ -11,14 +11,14 @@
             "id": "5b7814969e00ec76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "windows/winget.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".smart-env/smart_env.json",
+                "bFile": ".smart-env/smart_env.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "winget"
+              "icon": "diff",
+              "title": "Diff: smart_env.json"
             }
           }
         ]
@@ -165,8 +165,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -202,13 +202,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "172daabec6d73f4c",
+  "active": "78dedcd2c3008f82",
   "lastOpenFiles": [
+    "windows/winget.md",
     "windows/server.md",
     "windows/win11-setup.md",
     "windows/backup.md",
     "windows/graphics settings.md",
-    "windows/winget.md",
     "apps/containers/wg-easy.md",
     "kubernetes/node setup.md",
     "kubernetes/rancher.md",
