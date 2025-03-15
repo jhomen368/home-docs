@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/server.md",
+                "file": "windows/backup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "server"
+              "title": "backup"
             }
           }
         ]
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,14 +191,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6b310349bb542b41",
+  "active": "1ac9dc7c8507a1ce",
   "lastOpenFiles": [
-    "windows/winget.md",
     "windows/graphics settings.md",
     "windows/win11-setup.md",
-    "linux/installs/docker.md",
-    "windows/server.md",
+    "linux/procedures/user setup.md",
+    "linux/procedures/ubuntu cloud image recovery.md",
     "windows/backup.md",
+    "windows/server.md",
+    "windows/winget.md",
+    "linux/installs/docker.md",
     "apps/containers/wg-easy.md",
     "kubernetes/node setup.md",
     "kubernetes/rancher.md",
@@ -220,8 +222,6 @@
     "kubernetes/gpu passthrough.md",
     "apps/plex/troubleshooting.md",
     "apps/terraform/resources.md",
-    "linux/procedures/user setup.md",
-    "linux/procedures/ubuntu cloud image recovery.md",
     "apps/containers/pterodactyl.md",
     "apps/containers/pihole.md",
     "apps/containers/nzbget.md",
