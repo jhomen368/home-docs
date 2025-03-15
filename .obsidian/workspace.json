@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/os/linux/ubuntu/unattended-upgrades.md",
-                "mode": "preview",
+                "file": "knowledge/os/linux/synology.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "unattended-upgrades"
+              "title": "synology"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,18 +195,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "78dedcd2c3008f82",
+  "active": "89c3d76c7cecdf78",
   "lastOpenFiles": [
-    "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
+    "knowledge/os/linux/cheat-sheet.md",
     "knowledge/os/linux/ubuntu/unattended-upgrades.md",
+    "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
+    "knowledge/os/windows/cheat-sheet.md",
+    "knowledge/os/windows/win11/graphics-settings.md",
+    "technologies/winget.md",
     "technologies/ansible.md",
     "technologies/git.md",
-    "technologies/winget.md",
     "technologies/docker.md",
-    "knowledge/os/linux/cheat-sheet.md",
-    "knowledge/os/windows/cheat-sheet.md",
     "projects/main-desktop/backup-previous-system.md",
-    "knowledge/os/windows/win11/graphics-settings.md",
     "projects/main-desktop/win11-initial-setup.md",
     "projects/main-desktop/winget.md",
     "technologies/kubernetes/gpu-passthrough.md",
