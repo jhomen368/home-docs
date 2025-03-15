@@ -22,8 +22,8 @@ If not:
 
 https://www.youtube.com/watch?v=5mWMP96UdGU
 
-![](../files/Pasted%20image%2020250201120654.png)
-![](../files/Pasted%20image%2020250201120739.png)
+![](../files/gsync-summary.png)
+![](../files/gsync-summary-latency-compare.png)
 
 ## Enable G-Sync
 
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=5mWMP96UdGU
 2. Open NVIDIA Control Panel -> 3D Settings -> Display -> Set up G-Sync
 3. Set per display
 
-![](../files/Pasted%20image%2020250201124848.png)
+![](../files/gsync-enable-nvidia-control.png)
 
 ## Disable Double/Triple Buffering
 
@@ -40,7 +40,7 @@ This setting is disabled by default.
 1. Open NVIDIA Control Panel -> 3D Settings -> Global Settings
 2. **Set Triple Buffering to Off**
 
-![](../files/Pasted%20image%2020250201121628.png)
+![](../files/gsync-disable-buffering.png)
 
 ## Enable Low Latency Mode 
 
@@ -49,8 +49,8 @@ This setting is off by default.
 1. Open NVIDIA Control Panel -> 3D Settings -> Global Settings
 2. **Low Latency Mode to Ultra**
 
-![](../files/Pasted%20image%2020250201121912.png)
+![](../files/gsync-low-latency-nvidia-control.png)
 
 3. The NVIDIA App also has this setting (duplicate? Not sure of precedence order).
 
-![](../files/Pasted%20image%2020250201124614.png)
+![](../files/gsync-low-latency-nvidia-app.png)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/os/windows/cheat-sheet.md",
+                "file": "projects/main-desktop/win11-setup.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "cheat-sheet"
+              "title": "win11-setup"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,17 +195,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ac9dc7c8507a1ce",
+  "active": "6b310349bb542b41",
   "lastOpenFiles": [
-    "knowledge/os/windows/win11/graphics-settings.md",
-    "artifacts",
-    "projects/main-desktop/win11-setup.md",
-    "projects/main-desktop/winget.md",
     "projects/main-desktop/backup.md",
+    "technologies/kubernetes/gpu-passthrough.md",
+    "technologies/winget.md",
+    "knowledge/os/windows/cheat-sheet.md",
+    "knowledge/os/windows/win11/graphics-settings.md",
+    "projects/main-desktop/winget.md",
+    "projects/main-desktop/win11-setup.md",
+    "technologies/winget/usage.md",
+    "technologies/winget",
+    "artifacts/win11-debloat",
+    "artifacts/winget",
+    "knowledge/os/windows/files/gsync-summary.png",
+    "artifacts",
     "knowledge/os/linux/synology.md",
     "knowledge/os/linux/cheat-sheet.md",
-    "knowledge/os/windows/cheat-sheet.md",
-    "technologies/kubernetes/gpu passthrough for kuberenetes node.md",
     "technologies/kubernetes/flux.md",
     "technologies/kubernetes/coder.md",
     "technologies/kubernetes/cert-manager.md",
@@ -221,8 +227,6 @@
     "knowledge",
     "technologies/kubernetes/rancher.md",
     "technologies/kubernetes/nfs-subdir-external-provisioner.md",
-    "_templates",
-    "_drawings",
     "apps/ansible/kubernetes rke2 deployment.md",
     "apps/containers/pterodactyl.md",
     "apps/containers/pihole.md",
@@ -230,14 +234,11 @@
     "technologies/kubernetes/traefik.md",
     "technologies/kubernetes/kubectl.md",
     "apps/terraform/resources.md",
-    "apps/unifi/dns request redirect.md",
-    "learning",
-    "knowledge/os/windows/files/Pasted image 20250201120739.png",
-    "knowledge/os/windows/files/Pasted image 20250201124848.png",
-    "knowledge/os/windows/files/Pasted image 20250201124614.png",
-    "knowledge/os/windows/files/Pasted image 20250201121912.png",
-    "knowledge/os/windows/files/Pasted image 20250201121628.png",
-    "knowledge/os/windows/files/Pasted image 20250201120654.png",
+    "knowledge/os/windows/files/gsync-summary-latency-compare.png",
+    "knowledge/os/windows/files/gsync-enable-nvidia-control.png",
+    "knowledge/os/windows/files/gsync-low-latency-nvidia-app.png",
+    "knowledge/os/windows/files/gsync-low-latency-nvidia-control.png",
+    "knowledge/os/windows/files/gsync-disable-buffering.png",
     "images/Pasted image 20240307194657.png"
   ]
 }

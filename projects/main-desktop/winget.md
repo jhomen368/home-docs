@@ -1,6 +1,6 @@
 ## Install personalized basic package list from git
 
-![basic_apps.json](../../knowledge/os/windows/files/basic_apps.json)
+![basic_apps.json](../../artifacts/winget/basic_apps.json)
 
 ``` powershell
 cmd /C curl -O -L -H "Accept: Accept: application/vnd.github.v3.raw" -H "Authorization: Bearer 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" https://api.github.com/repos/jhomen368/home-docs/contents/windows/files/basic_apps.json
@@ -11,7 +11,7 @@ rm basic_apps.json
 ```
 
 
-![custom_apps.json](../../knowledge/os/windows/files/custom_apps.json)
+![custom_apps.json](../../artifacts/winget/custom_apps.json)
 
 ``` powershell
 cmd /C curl -O -L -H "Accept: Accept: application/vnd.github.v3.raw" -H "Authorization: Bearer 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" https://api.github.com/repos/jhomen368/home-docs/contents/windows/files/custom_apps.json
@@ -19,45 +19,5 @@ cmd /C curl -O -L -H "Accept: Accept: application/vnd.github.v3.raw" -H "Authori
 winget import -i .\custom_apps.json --no-upgrade --accept-package-agreements --accept-source-agreements
 
 rm custom_apps.json
-```
-
-## Manual Installs
-
-Search for App
-
-``` powershell
-winget search Discord
-```
-
-Install an app
-
-``` powershell
-winget install Discord.Discord
-```
-
-Upgrade all apps
-
-``` powershell
-winget upgrade --all
-```
-
-
-Upgrade specific app
-
-``` powershell
-winget upgrade Discord.Discord
-```
-
-
-Export all winget apps into JSON into current working directory
-
-``` powershell
-winget export -o exported_apps.json
-```
-
-Install winget apps from JSON in current working directory
-
-``` powershell
-winget import -i exported_apps.json
 ```
 
