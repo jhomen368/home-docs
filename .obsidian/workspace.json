@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".smart-env/multi/kubernetes_nfs-subdir-external-provisioner_md.ajson",
-                "bFile": ".smart-env/multi/kubernetes_nfs-subdir-external-provisioner_md.ajson",
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: kubernetes_nfs-subdir-external-provisioner_md.ajson"
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -182,9 +182,12 @@
   },
   "active": "0709563a35c306f3",
   "lastOpenFiles": [
+    "linux/quick references.md",
+    "New Text Document.txt",
+    "windows/server.md",
+    "windows/win11-setup.md",
     "linux/installs/git.md",
     "linux/installs/automatic updates.md",
-    "windows/server.md",
     "windows/backup.md",
     "windows/graphics settings.md",
     "kubernetes/cert-manager.md",
@@ -205,9 +208,6 @@
     "apps/ansible/kubernetes rke2 deployment.md",
     "kubernetes/flux.md",
     "kubernetes/kubectl.md",
-    "linux/quick references.md",
-    "windows/win11-setup.md",
-    "linux/synology.md",
     "misc/files/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
     "misc/files",
     "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432 2.markdown",
@@ -223,7 +223,6 @@
     "linux/installs",
     "windows/files/Sophia_Script_for_Windows_11_v6.7.3_customized.zip",
     "windows/Untitled 20241124 125054.mdenc",
-    "windows/files/Sophia_Script_for_Windows_11_v6.7.2_customized.zip",
     "images/Pasted image 20240307194657.png"
   ]
 }
