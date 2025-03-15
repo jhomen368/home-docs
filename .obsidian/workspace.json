@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf6b74aa9e0953f",
+        "id": "fb743ec744c5319b",
         "type": "tabs",
         "children": [
           {
-            "id": "c86e8f6617033730",
+            "id": "0709563a35c306f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "linux/installs/automatic updates.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".smart-env/multi/kubernetes_nfs-subdir-external-provisioner_md.ajson",
+                "bFile": ".smart-env/multi/kubernetes_nfs-subdir-external-provisioner_md.ajson",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "automatic updates"
+              "icon": "diff",
+              "title": "Diff: kubernetes_nfs-subdir-external-provisioner_md.ajson"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 341.5
   },
   "right": {
     "id": "48188431bc0a6d2e",
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/installs/automatic updates.md",
+                "file": "linux/installs/git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of automatic updates"
+              "title": "Outline of git"
             }
           },
           {
@@ -158,29 +158,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "501d920c86f9d165",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
-          },
-          {
-            "id": "09152a83173063bc",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,14 +177,13 @@
       "obsidian-git:Open Git source control": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "meld-encrypt:Encrypt/Decrypt": false,
-      "meld-encrypt:Encrypt/Decrypt In-place": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "meld-encrypt:Encrypt/Decrypt In-place": false
     }
   },
-  "active": "09152a83173063bc",
+  "active": "0709563a35c306f3",
   "lastOpenFiles": [
+    "linux/installs/git.md",
+    "linux/installs/automatic updates.md",
     "windows/server.md",
     "windows/backup.md",
     "windows/graphics settings.md",
@@ -229,8 +208,6 @@
     "linux/quick references.md",
     "windows/win11-setup.md",
     "linux/synology.md",
-    "linux/installs/docker.md",
-    "linux/installs/automatic updates.md",
     "misc/files/vertopal.com_Monster+Hunter+Wiki-20250205040432.markdown",
     "misc/files",
     "misc/vertopal.com_Monster+Hunter+Wiki-20250205040432 2.markdown",

@@ -7591,6 +7591,14 @@
             "multimodal": false
           }
         }
+      },
+      "groq": {
+        "model_key": "llama3-8b-8192",
+        "models": {
+          "_": {
+            "id": "No models found."
+          }
+        }
       }
     },
     "embed_model": {
@@ -7599,6 +7607,6 @@
     "language": "en",
     "review_context": false,
     "lookup_limit": "10",
-    "send_tool_output_in_user_message": false
+    "send_tool_output_in_user_message": true
   }
 }
