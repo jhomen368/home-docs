@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,7 +202,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "78dedcd2c3008f82",
+  "active": "1ac9dc7c8507a1ce",
   "lastOpenFiles": [
     "windows/winget.md",
     "windows/server.md",

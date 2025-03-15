@@ -40,16 +40,16 @@
         "model_key": "undefined"
       },
       "custom": {
-        "hostname": "localhost",
+        "hostname": "127.0.0.1",
         "port": 1234,
         "protocol": "http",
         "model_name": "llama3:8b",
-        "streaming": true,
-        "path": "v1",
+        "streaming": false,
+        "path": "",
         "api_key": "",
         "max_input_tokens": 10,
-        "api_adapter": "openai",
-        "id": "deepseek-r1-distill-qwen-32b"
+        "api_adapter": "lm_studio",
+        "id": ""
       },
       "open_router": {
         "model_key": "mistralai/mistral-7b-instruct:free",
@@ -7577,7 +7577,7 @@
         }
       },
       "lm_studio": {
-        "model_key": "deepseek-r1-distill-llama-8b",
+        "model_key": "deepseek-r1-distill-qwen-32b",
         "models": {
           "deepseek-r1-distill-llama-8b": {
             "id": "deepseek-r1-distill-llama-8b",
@@ -7597,7 +7597,8 @@
             "description": "LM Studio model: text-embedding-nomic-embed-text-v1.5",
             "multimodal": false
           }
-        }
+        },
+        "api_key": "1234"
       },
       "groq": {
         "model_key": "llama3-8b-8192",
