@@ -1,28 +1,42 @@
 
-## recovery
+## Running System Maintenance Commands
 
-https://windowsreport.com/how-to-repair-windows-server-when-it-doesnt-boot-up/
-
-integrity
+### Disabling Windows Boot Record (DBR) During System Restore
 
 ``` cmd
 DISM.exe /Online /Cleanup-image /Restorehealth
 ```
 
-```cmd
+- **Purpose**: This command is used to disable the Windows Boot Record (DBR) during a system restore operation. It helps in isolating issues related to the boot record by cleaning up unnecessary entries and restoring system health.
+
+### Checking for System File Corruptions
+
+``` cmd
 sfc /scannow
 ```
 
-```cmd
+- **Purpose**: This command scans your system for any file corruptions that might be preventing proper booting or operation. It helps identify potential issues before they cause significant problems.
+
+### Checking Disk Space on All Drives
+
+``` cmd
 chkdsk
 ```
 
-system boot record
+- **Purpose**: This command scans all drives to check disk space availability and free capacity. It ensures there is enough space for your operating system and applications, preventing future errors due to insufficient storage.
 
-```cmd
+### Fixing the System Boot Record (DBR)
+
+``` cmd
 bootrec /fixmbrbootrec /fixboot
 ```
 
-```cmd
+- **Purpose**: This command fixes issues with the system boot record by rebuilding it. It ensures that the boot sector contains valid entries for all drives, allowing the system to start properly.
+
+## Rebuilding the Basic Configuration Directory (BCD)
+
+``` cmd
 bootrec /rebuildbcd
 ```
+
+- **Purpose**: This command rebuilds the Basic Configuration Directory (BCD), which stores information about disk partitions and logical drives. It ensures that the system has accurate drive mappings for proper operation.
