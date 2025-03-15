@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,9 +195,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "89c3d76c7cecdf78",
+  "active": "78dedcd2c3008f82",
   "lastOpenFiles": [
     "knowledge/os/linux/cheat-sheet.md",
+    "knowledge/os/linux/synology.md",
     "knowledge/os/linux/ubuntu/unattended-upgrades.md",
     "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
     "knowledge/os/windows/cheat-sheet.md",
@@ -216,7 +217,6 @@
     "artifacts/winget",
     "knowledge/os/windows/files/gsync-summary.png",
     "artifacts",
-    "knowledge/os/linux/synology.md",
     "technologies/kubernetes/flux.md",
     "technologies/kubernetes/coder.md",
     "technologies/kubernetes/cert-manager.md",
