@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/os/windows/win11/graphics-settings.md",
+                "file": "technologies/docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "graphics-settings"
+              "title": "docker"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/os/windows/win11/graphics-settings.md",
+                "file": "technologies/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for graphics-settings"
+              "title": "Backlinks for docker"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/os/windows/win11/graphics-settings.md",
+                "file": "technologies/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from graphics-settings"
+              "title": "Outgoing links from docker"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/os/windows/win11/graphics-settings.md",
+                "file": "technologies/docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of graphics-settings"
+              "title": "Outline of docker"
             }
           },
           {
@@ -195,22 +195,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4a503500398ac68",
+  "active": "1ac9dc7c8507a1ce",
   "lastOpenFiles": [
-    "knowledge/os/windows/win11/files/gsync-disable-buffering.png",
-    "knowledge/os/windows/win11/files/gsync-enable-nvidia-control.png",
-    "knowledge/os/windows/win11/graphics-settings.md",
+    "technologies/git.md",
+    "technologies/winget.md",
+    "_templates/basic-note.md",
     "knowledge/os/windows/cheat-sheet.md",
+    "knowledge/os/windows/win11/files/gsync-enable-nvidia-control.png",
+    "knowledge/os/windows/win11/files/gsync-low-latency-nvidia-app.png",
+    "knowledge/os/windows/win11/files/gsync-low-latency-nvidia-control.png",
+    "knowledge/os/windows/win11/files/gsync-summary.png",
+    "knowledge/os/windows/win11/graphics-settings.md",
+    "knowledge/os/windows/win11/files/gsync-disable-buffering.png",
     "knowledge/os/windows/active-directory.md",
     "projects/main-desktop/backup-previous-system.md",
     "projects/main-desktop/win11-initial-setup.md",
     "knowledge/os/linux/synology.md",
     "knowledge/os/windows/windows-server/active-directory.md",
     "knowledge/os/windows/windows-server",
-    "_templates/basic-note.md",
-    "technologies/winget.md",
     "technologies/docker.md",
-    "technologies/git.md",
     "Test.md",
     "test-note.md",
     "technologies/ansible.md",
@@ -225,7 +228,6 @@
     "technologies/winget",
     "artifacts/win11-debloat",
     "artifacts/winget",
-    "knowledge/os/windows/win11/files/gsync-summary.png",
     "artifacts",
     "technologies/kubernetes/flux.md",
     "knowledge/os/windows/win11",
@@ -236,8 +238,6 @@
     "technologies/kubernetes/node setup.md",
     "technologies/kubernetes/rancher.md",
     "knowledge/os/windows/win11/files/gsync-summary-latency-compare.png",
-    "knowledge/os/windows/win11/files/gsync-low-latency-nvidia-app.png",
-    "knowledge/os/windows/win11/files/gsync-low-latency-nvidia-control.png",
     "images/Pasted image 20240307194657.png"
   ]
 }
