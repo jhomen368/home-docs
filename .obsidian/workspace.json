@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowlege/operating_systems/linux/synology.md",
+                "file": "knowledge/os/windows/cheat-sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "synology"
+              "title": "cheat-sheet"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 440.5
   },
   "right": {
     "id": "48188431bc0a6d2e",
@@ -190,31 +190,37 @@
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt In-place": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b310349bb542b41",
+  "active": "1ac9dc7c8507a1ce",
   "lastOpenFiles": [
-    "knowlege/operating_systems/windows/windows-clients",
-    "knowlege/operating_systems/linux/cheat-sheet.md",
-    "knowlege/operating_systems/linux/ubuntu/installs/automatic updates.md",
-    "knowlege/operating_systems/linux/ubuntu",
-    "knowlege/operating_systems/linux/synology.md",
-    "knowlege/operating_systems/windows/winget.md",
-    "knowlege/operating_systems/windows/win11-setup.md",
-    "knowlege/operating_systems/linux/ubuntu/installs/git.md",
+    "knowledge/os/windows/win11/graphics-settings.md",
+    "artifacts",
+    "projects/main-desktop/win11-setup.md",
+    "projects/main-desktop/winget.md",
+    "projects/main-desktop/backup.md",
+    "knowledge/os/linux/synology.md",
+    "knowledge/os/linux/cheat-sheet.md",
+    "knowledge/os/windows/cheat-sheet.md",
+    "technologies/kubernetes/gpu passthrough for kuberenetes node.md",
+    "technologies/kubernetes/flux.md",
+    "technologies/kubernetes/coder.md",
+    "technologies/kubernetes/cert-manager.md",
+    "knowledge/os/windows/win11",
+    "knowledge/os/linux/ubuntu/installs/automatic updates.md",
+    "knowledge/os/linux/ubuntu",
+    "knowledge/os/linux/ubuntu/installs/git.md",
     "projects/main-desktop",
     "technologies",
-    "knowlege/operating_systems",
-    "knowlege/operating_systems/linux/ubuntu/installs/docker.md",
+    "knowledge/os",
+    "knowledge/os/linux/ubuntu/installs/docker.md",
     "technologies/kubernetes/node setup.md",
-    "knowlege",
-    "technologies/kubernetes/cert-manager.md",
+    "knowledge",
     "technologies/kubernetes/rancher.md",
     "technologies/kubernetes/nfs-subdir-external-provisioner.md",
-    "technologies/kubernetes/coder.md",
-    "knowlege/operating_systems/windows/server.md",
-    "knowlege/operating_systems/windows/graphics-settings.md",
     "_templates",
     "_drawings",
     "apps/ansible/kubernetes rke2 deployment.md",
@@ -223,20 +229,15 @@
     "apps/containers/nzbget.md",
     "technologies/kubernetes/traefik.md",
     "technologies/kubernetes/kubectl.md",
-    "technologies/kubernetes/gpu passthrough.md",
-    "technologies/kubernetes/flux.md",
     "apps/terraform/resources.md",
     "apps/unifi/dns request redirect.md",
-    "knowlege/operating_systems/linux/ubuntu/procedures/ubuntu cloud image recovery.md",
     "learning",
-    "projects",
-    "knowlege/operating_systems/windows/files/Pasted image 20250201120739.png",
-    "knowlege/operating_systems/windows/files/Pasted image 20250201124848.png",
-    "knowlege/operating_systems/windows/files/Pasted image 20250201124614.png",
-    "knowlege/operating_systems/windows/files/Pasted image 20250201121912.png",
-    "knowlege/operating_systems/windows/files/Pasted image 20250201121628.png",
-    "knowlege/operating_systems/windows/files/Pasted image 20250201120654.png",
-    "New Text Document.txt",
+    "knowledge/os/windows/files/Pasted image 20250201120739.png",
+    "knowledge/os/windows/files/Pasted image 20250201124848.png",
+    "knowledge/os/windows/files/Pasted image 20250201124614.png",
+    "knowledge/os/windows/files/Pasted image 20250201121912.png",
+    "knowledge/os/windows/files/Pasted image 20250201121628.png",
+    "knowledge/os/windows/files/Pasted image 20250201120654.png",
     "images/Pasted image 20240307194657.png"
   ]
 }
