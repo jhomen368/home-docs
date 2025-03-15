@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/os/linux/ubuntu/installs/docker.md",
+                "file": "technologies/docker.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,12 +197,12 @@
   },
   "active": "88ad99dc6c78448e",
   "lastOpenFiles": [
-    "knowledge/os/linux/ubuntu/installs/automatic updates.md",
-    "knowledge/os/linux/ubuntu/installs/docker.md",
     "technologies/git.md",
+    "technologies/winget.md",
+    "technologies/docker.md",
+    "knowledge/os/linux/ubuntu/installs/automatic updates.md",
     "projects/main-desktop/backup-previous-system.md",
     "projects/main-desktop/win11-initial-setup.md",
-    "technologies/winget.md",
     "projects/main-desktop/winget.md",
     "technologies/kubernetes/gpu-passthrough.md",
     "knowledge/os/windows/cheat-sheet.md",
