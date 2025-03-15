@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85b7eee0e09c1089",
+        "id": "095255d00444ca0d",
         "type": "tabs",
         "children": [
           {
-            "id": "5b7814969e00ec76",
+            "id": "6b310349bb542b41",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".smart-env/smart_env.json",
-                "bFile": ".smart-env/smart_env.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: smart_env.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -160,27 +156,17 @@
             }
           },
           {
-            "id": "c04acddd4ad9c8ed",
+            "id": "89c3d76c7cecdf78",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "172daabec6d73f4c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
+              "type": "copilot-chat-view",
               "state": {},
               "icon": "message-square",
-              "title": "Smart Chat"
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,11 +184,10 @@
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt In-place": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1ac9dc7c8507a1ce",
+  "active": "89c3d76c7cecdf78",
   "lastOpenFiles": [
     "windows/winget.md",
     "windows/server.md",

@@ -32,7 +32,7 @@
   "excluded_headings": "",
   "smart_threads": {
     "chat_model": {
-      "adapter": "lm_studio",
+      "adapter": "custom",
       "openai": {
         "model_key": "gpt-4o"
       },
@@ -49,7 +49,7 @@
         "api_key": "",
         "max_input_tokens": 10,
         "api_adapter": "lm_studio",
-        "id": ""
+        "id": "bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF"
       },
       "open_router": {
         "model_key": "mistralai/mistral-7b-instruct:free",
@@ -7579,12 +7579,6 @@
       "lm_studio": {
         "model_key": "deepseek-r1-distill-qwen-32b",
         "models": {
-          "deepseek-r1-distill-llama-8b": {
-            "id": "deepseek-r1-distill-llama-8b",
-            "model_name": "deepseek-r1-distill-llama-8b",
-            "description": "LM Studio model: deepseek-r1-distill-llama-8b",
-            "multimodal": false
-          },
           "deepseek-r1-distill-qwen-32b": {
             "id": "deepseek-r1-distill-qwen-32b",
             "model_name": "deepseek-r1-distill-qwen-32b",
