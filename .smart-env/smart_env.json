@@ -32,7 +32,7 @@
   "excluded_headings": "",
   "smart_threads": {
     "chat_model": {
-      "adapter": "custom",
+      "adapter": "lm_studio",
       "openai": {
         "model_key": "gpt-4o"
       },
@@ -7592,7 +7592,7 @@
             "multimodal": false
           }
         },
-        "api_key": "1234"
+        "api_key": ""
       },
       "groq": {
         "model_key": "llama3-8b-8192",
