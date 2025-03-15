@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77400d96d2dca549",
+        "id": "3160f9d47bef95e5",
         "type": "tabs",
         "children": [
           {
-            "id": "38f6aba49364b978",
+            "id": "b4a503500398ac68",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,30 +195,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "38f6aba49364b978",
+  "active": "b4a503500398ac68",
   "lastOpenFiles": [
+    "knowledge/os/windows/win11/files/gsync-disable-buffering.png",
+    "knowledge/os/windows/win11/files/gsync-enable-nvidia-control.png",
+    "knowledge/os/windows/win11/graphics-settings.md",
+    "knowledge/os/windows/cheat-sheet.md",
+    "knowledge/os/windows/active-directory.md",
+    "projects/main-desktop/backup-previous-system.md",
+    "projects/main-desktop/win11-initial-setup.md",
+    "knowledge/os/linux/synology.md",
+    "knowledge/os/windows/windows-server/active-directory.md",
+    "knowledge/os/windows/windows-server",
+    "_templates/basic-note.md",
+    "technologies/winget.md",
+    "technologies/docker.md",
+    "technologies/git.md",
+    "Test.md",
+    "test-note.md",
+    "technologies/ansible.md",
     "knowledge/os/linux/ubuntu/unattended-upgrades.md",
     "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
-    "_templates/basic-note.md",
-    "projects/main-desktop/backup-previous-system.md",
-    "technologies/docker.md",
-    "technologies/ansible.md",
-    "technologies/git.md",
-    "projects/main-desktop/win11-initial-setup.md",
     "technologies/kubernetes/cert-manager.md",
     "technologies/kubernetes/coder.md",
     "technologies/kubernetes/gpu-passthrough.md",
-    "knowledge/os/linux/synology.md",
     "knowledge/os/linux/cheat-sheet.md",
-    "knowledge/os/windows/win11/graphics-settings.md",
-    "knowledge/os/windows/cheat-sheet.md",
-    "technologies/winget.md",
     "projects/main-desktop/winget.md",
     "technologies/winget/usage.md",
     "technologies/winget",
     "artifacts/win11-debloat",
     "artifacts/winget",
-    "knowledge/os/windows/files/gsync-summary.png",
+    "knowledge/os/windows/win11/files/gsync-summary.png",
     "artifacts",
     "technologies/kubernetes/flux.md",
     "knowledge/os/windows/win11",
@@ -227,18 +234,10 @@
     "technologies",
     "knowledge/os",
     "technologies/kubernetes/node setup.md",
-    "knowledge",
     "technologies/kubernetes/rancher.md",
-    "technologies/kubernetes/nfs-subdir-external-provisioner.md",
-    "apps/ansible/kubernetes rke2 deployment.md",
-    "apps/containers/pterodactyl.md",
-    "apps/containers/pihole.md",
-    "apps/containers/nzbget.md",
-    "knowledge/os/windows/files/gsync-summary-latency-compare.png",
-    "knowledge/os/windows/files/gsync-enable-nvidia-control.png",
-    "knowledge/os/windows/files/gsync-low-latency-nvidia-app.png",
-    "knowledge/os/windows/files/gsync-low-latency-nvidia-control.png",
-    "knowledge/os/windows/files/gsync-disable-buffering.png",
+    "knowledge/os/windows/win11/files/gsync-summary-latency-compare.png",
+    "knowledge/os/windows/win11/files/gsync-low-latency-nvidia-app.png",
+    "knowledge/os/windows/win11/files/gsync-low-latency-nvidia-control.png",
     "images/Pasted image 20240307194657.png"
   ]
 }
