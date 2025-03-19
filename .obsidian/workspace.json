@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/os/windows/cheat-sheet.md",
+                "file": "technologies/winget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cheat-sheet"
+              "title": "winget"
             }
           }
         ]
@@ -177,8 +177,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -219,9 +219,10 @@
   },
   "active": "c08fc0ce48431e3e",
   "lastOpenFiles": [
+    "projects/main-desktop/win11-initial-setup.md",
+    "knowledge/os/windows/cheat-sheet.md",
     "technologies/winget.md",
     "projects/main-desktop/backup-previous-system.md",
-    "projects/main-desktop/win11-initial-setup.md",
     "conflict-files-obsidian-git.md",
     "knowledge/os/windows/win11/graphics-settings.md",
     "technologies/kubernetes/traefik.md",
@@ -231,7 +232,6 @@
     "technologies/kubernetes/flux.md",
     "technologies/kubernetes/coder.md",
     "technologies/kubernetes/cert-manager.md",
-    "knowledge/os/windows/cheat-sheet.md",
     "knowledge/os/linux/ubuntu/ubuntu-cloud-image-recovery.md",
     "knowledge/os/linux/ubuntu/unattended-upgrades.md",
     "knowledge/os/linux/synology.md",
