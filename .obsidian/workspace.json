@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technologies/winget.md",
+                "file": "knowledge/os/linux/synology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winget"
+              "title": "synology"
             }
           }
         ]
@@ -177,8 +177,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Smart Chat"
             }
           },
           {
@@ -212,14 +212,16 @@
       "meld-encrypt:Encrypt/Decrypt In-place": false,
       "copilot:Open Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "944d2a035203eeb8",
+  "active": "c08fc0ce48431e3e",
   "lastOpenFiles": [
+    "technologies/winget.md",
     "projects/main-desktop/win11-initial-setup.md",
     "knowledge/os/windows/cheat-sheet.md",
-    "technologies/winget.md",
     "projects/main-desktop/backup-previous-system.md",
     "conflict-files-obsidian-git.md",
     "knowledge/os/windows/win11/graphics-settings.md",
