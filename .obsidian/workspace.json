@@ -187,12 +187,12 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -212,12 +212,10 @@
       "meld-encrypt:Encrypt/Decrypt In-place": false,
       "copilot:Open Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c08fc0ce48431e3e",
+  "active": "944d2a035203eeb8",
   "lastOpenFiles": [
     "projects/main-desktop/win11-initial-setup.md",
     "knowledge/os/windows/cheat-sheet.md",

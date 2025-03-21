@@ -79,3 +79,5 @@ winget import -i exported_apps.json
 
 This will read the JSON file and install all listed applications automatically, including their dependencies. 
 
+
+
